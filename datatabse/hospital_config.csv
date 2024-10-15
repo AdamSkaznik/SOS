@@ -1,0 +1,776 @@
+hospital_config_id,hospital_config_description,number_of_beds,number_of_beds_locked,branch_id,hospital_id,description,email,fax,phone,active,create_date,update_date,user_id,managment_id
+99999999,brak - test,0,0,1,13,null,null,null,null,f,null,null,null,null
+427,BRAK,0,0,1,10,null,null,null,null,t,null,null,null,null
+75,telefon: 323964200  fax: 323964243 uwagi: Katedra i Oddział Kliniczny Chirurgii Naczyń i Chirurgii Ogólnej.\r\nW tym 3 łóżka IOM,40,0,48,28,null,null,null,null,t,null,null,null,null
+24,"telefon: 34 323 29 67  (centrala)  fax: 34 323 02 88 uwagi: Oddział Chorob Wewnętrznych z Ośrodkiem Intensywnej Opieki Kardiologicznej,\r\nw tym 5 łóżek intensywnego nadzoru kardiologicznego\r\nAdres oddziału: Al. Pokoju 44,  42-200 Częstochowa",65,0,1,20,null,null,null,null,t,null,null,null,null
+27,"telefon:   fax:  uwagi: Oddział noworodkowy 19 łóżek, w tym 15 łóżek dla noworodków, 4 inkubatory",19,0,75,21,null,null,null,null,t,null,null,null,null
+28,telefon:   fax:  uwagi: W tym 2 łóżka IOM.,37,0,1,21,null,null,null,null,t,null,null,null,null
+29,telefon: 32 3257546  fax:  uwagi: W tym 5 łóżek IOM.\r\nOddział leczenia udarów,30,0,22,21,null,null,null,null,t,null,null,null,null
+31,telefon:   fax:  uwagi: ,20,0,8,21,null,null,null,null,t,null,null,null,null
+841,"telefon:   fax:  uwagi: 2 IOM -kod 4000, 5 IOM - kod 4220",7,0,191,21,null,null,null,null,t,null,null,null,null
+32,"telefon: 324537135, dyżurka pielęgniarek 32 4537137  fax: 324554513 uwagi: Oddział otwarty 19 łóżek \r\nOddział zakaźny - 19 łóżek",38,0,31,22,null,null,null,null,t,null,null,null,null
+33,"telefon: 324537129 (pulmon.) ;  324537131 (dyżurka pielęgniarek); Oddział Pulmunologii i Rehabilitacji Oddechowej: gabinet lekarski 32 4537115, dyżurka pielęgniarek 32 4537121  fax: 324554513 uwagi: Oddział II Pulmonologiczny - 40\r\nOddział III Pulmonologii i Rehabilitacji Oddechowej - 26",66,0,133,22,null,null,null,null,t,null,null,null,null
+34,telefon: 323029845  fax: 323314276 uwagi: w tym 4 łóżka intensywnego nadzoru kardiologicznego,30,0,1,23,null,null,null,null,t,null,null,null,null
+35,telefon: 323029855  fax: 323314246 uwagi: w tym 1 łóżko IOM,22,0,22,23,null,null,null,null,t,null,null,null,null
+36,telefon: 323029853  fax: 323314276 uwagi: w tym 5 łóżek IOM,19,0,24,23,null,null,null,null,t,null,null,null,null
+707,"telefon:   fax:  uwagi: 1 łóżko kod 4220, 5 łóżek kod 4222\r\n",6,0,191,23,null,null,null,null,t,null,null,null,null
+37,"telefon: Oddz. Wew. I: 324291933, Oddz. Wew. II:324291033  fax: Oddz. Wew. I i II: 324228272 uwagi: Oddział Chorób Wewnętrznych I - 45, w tym 4 łóżka IOM\r\nOddział Chorób Wewnętrznych II - 45, w tym 4 łóżka IOM",90,0,1,24,null,null,null,null,t,null,null,null,null
+39,"telefon: 324291095, 324291094  fax: 324228272 uwagi: Dializy - TAK",11,0,100,24,null,null,null,null,t,null,null,null,null
+40,telefon: 324291635  fax: 324228272 uwagi: W tym 2 łóżka IOM,28,0,40,24,null,null,null,null,t,null,null,null,null
+41,telefon: 324291444  fax: 324228272 uwagi: 15 inkubatorów.,23,0,75,24,null,null,null,null,t,null,null,null,null
+42,telefon: 324291533  fax: 324228272 uwagi: W tym 2 łóżka IOM,38,0,42,24,null,null,null,null,t,null,null,null,null
+43,telefon: 324291477  fax: 324228272 uwagi: Oddział Chirurgii Ogólnej i Naczyniowej,60,0,45,24,null,null,null,null,t,null,null,null,null
+44,telefon: 324291844  fax: 324228272 uwagi: ,15,0,46,24,null,null,null,null,t,null,null,null,null
+45,telefon: 324291333  fax: 324228272 uwagi: ,42,0,106,24,null,null,null,null,t,null,null,null,null
+46,telefon: 324291177  fax: 324228272 uwagi: ,16,0,59,24,null,null,null,null,t,null,null,null,null
+49,telefon: 324291544  fax: 324228272 uwagi: ,18,0,64,24,null,null,null,null,t,null,null,null,null
+50,"telefon: 324291133, komórka udarowa 530 628 873  fax: 324228272 uwagi: Oddział neurologiczny z pododdziałem udarowym\r\nw tym 4 łóżka IOM",34,0,22,24,null,null,null,null,t,null,null,null,null
+51,telefon: 324291144  fax: 324228272 uwagi: 4 łóżka intensywnego nadzoru,24,0,10,24,null,null,null,null,t,null,null,null,null
+52,telefon: 324291562  fax: 324228272 uwagi: Oddział Endokrynologii i Diabetologii,15,0,5,24,null,null,null,null,t,null,null,null,null
+635,"telefon: 32 4292650, 32 4292653, 32 4292650  fax: 324228272 uwagi: ",1,0,72,24,null,null,null,null,t,null,null,null,null
+738,telefon:   fax:  uwagi: 4000- 8 łóżek (po 4 na oddziałach I i II)\r\n4240- 2 \r\n4401- 2\r\n4450- 2\r\n4610- 2\r\n4220- 4\r\n4222- 4\r\n,24,0,191,24,null,null,null,null,t,null,null,null,null
+740,"telefon: 324292650, 32 4292653, 32 4292650  fax: 324228272 uwagi: ",8,0,192,24,null,null,null,null,t,null,null,null,null
+861,telefon: 324291755  fax: 324228272 uwagi: Oddział onkologiczny z pododdziałem hematologicznym.\r\nW tym 1 łóżka IOM,30,0,110,24,null,null,null,null,t,null,null,null,null
+1053,telefon: Komórka udarowa 530 628 873  fax:  uwagi: ,16,0,24,24,null,null,null,null,t,null,null,null,null
+53,telefon: Psych. ogólny I: (34) 353-28-82; Psych. ogólny II: (34) 353-29-02; Psych. ogólny III (34) 353-29-05  fax: 34 3532802 uwagi: Oddział Psychiatryczny Ogólny I z Pododdziałem Terapii Zaburzeń Afektywnych - 65 \r\nOddział Psychiatryczny Ogólny II z Pododdziałem Terapii Zaburzeń Lękowych i Psychosomatycznych - 65 \r\nOddział Psychiatryczny Ogólny III z Pododdziałem Terapii Pierwszych Epizodów Psychotycznych - 65 \r\n,195,0,66,25,null,null,null,null,t,null,null,null,null
+54,telefon: 34 353-29-46  fax: 34 3532802 uwagi: ,40,0,182,25,null,null,null,null,t,null,null,null,null
+55,telefon: 34 3532931  fax: 34 3532802 uwagi: Oddział psychiatryczny rehabilitacyjny. ,30,0,68,25,null,null,null,null,t,null,null,null,null
+56,telefon: 34 3532879  fax: 34 3532802 uwagi: Oddział terapii uzależnienia od alkoholu z pododdziałem dla kobiet.,60,0,95,25,null,null,null,null,t,null,null,null,null
+57,telefon: 34 353-28-20  fax:  uwagi: ,60,0,92,25,null,null,null,null,t,null,null,null,null
+58,telefon: 34 3532981  fax: 34 3532802 uwagi: Oddział psychiatrii sądowej o podstawowym stopniu zabezpieczenia.,75,0,152,25,null,null,null,null,t,null,null,null,null
+59,telefon: 34 3532914 / 34 3532916 / 34 3532981  fax: 34 3532802 uwagi: Zakład Opiekuńczo - Leczniczy Psychiatryczny,152,0,109,25,null,null,null,null,t,null,null,null,null
+61,telefon: 32 3849756 wew. 144  fax: 32 3849921 uwagi: łóżka IOM 2,40,0,1,26,null,null,null,null,t,null,null,null,null
+825,telefon:   fax:  uwagi: 2 IOM - kod 4000,2,0,191,26,null,null,null,null,t,null,null,null,null
+62,telefon: Oddz. VI: poz. I 32 4328255; poz. II 32 4328287; poz. III 32 4328258; Oddz. VIII: 32 4328127; Oddz. VIIIa: 32 4328132; Oddz. XVII: 32 4328287; Oddz. XVIIIa: 32 4328135; Oddz. XVIIId: 32 4328210  fax: 32 4226875 uwagi: Oddział VI - 96 (Oddział żeński)\r\nOddział VIII - 46 (Oddział męski)\r\nOddział VIII a - 46 (Oddział żeński)\r\nOddział XVII - 30 (Oddział bez podziału)\r\nOddział XVIII a - 67 (Oddział męski)\r\nOddział XVIII d - 45 (Oddział męski)\r\n,330,0,66,27,null,null,null,null,t,null,null,null,null
+63,telefon: 32 4328282  fax: 32 4226875 uwagi: Oddział XIV - terapii uzależnienia od alkoholu,30,0,95,27,null,null,null,null,t,null,null,null,null
+64,telefon: 32 4328279  fax: 32 4226875 uwagi: Oddział XVI - rehabilitacji psychiatrycznej,25,0,68,27,null,null,null,null,t,null,null,null,null
+65,telefon: 32 4328108  fax: 32 4226875 uwagi: ,30,0,91,27,null,null,null,null,t,null,null,null,null
+66,telefon: Oddz. III: 32 4328146; Oddz. VII: 32 4328292; Oddz. VIIa: 32 4328157; Oddz. X: 32 4328180; Oddz. XX: 32 4328243  fax: 32 4226875 uwagi: Oddział III - 37\r\nOddział VII - 46\r\nOddział VII a - 46\r\nOddział X - 39\r\nOddział XX - 50\r\n,218,0,152,27,null,null,null,null,t,null,null,null,null
+67,telefon: 32 4328178  fax: 32 4226875 uwagi: Oddział IX - psychiatrii sądowej o wzmocnionym zabezpieczeniu,45,0,92,27,null,null,null,null,t,null,null,null,null
+68,"telefon: II: 32 4328151; IIa: 32 4328153; IV: 32 4328203; V: 32 4328206; Va: 32 4328253; XXI: 32 4328226  fax: 32 4226875 uwagi: Podział wewnętrzny na Zakłady opiekuńczo-lecznicze psychiatryczne: II, IIa, IV, V, Va, XXI.   ",228,0,109,27,null,null,null,null,t,null,null,null,null
+69,telefon: 32 4328193  fax: 32 4226875 uwagi: ,24,0,105,27,null,null,null,null,t,null,null,null,null
+70,telefon: 32 4328182  fax: 32 4226875 uwagi: ,20,0,116,27,null,null,null,null,t,null,null,null,null
+741,telefon:   fax:  uwagi: ,0,0,191,27,null,null,null,null,t,null,null,null,null
+71,telefon: 323964170  fax: 322816535 uwagi: \r\n,35,0,10,28,null,null,null,null,t,null,null,null,null
+72,telefon: 323964280  fax: brak uwagi: w tym 2 IOM,29,0,1,28,null,null,null,null,t,null,null,null,null
+73,telefon: 323964390  fax: 323964399 uwagi: w tym 2 IOM,30,0,133,28,null,null,null,null,t,null,null,null,null
+74,telefon: 323964250  fax: brak uwagi: w tym 2 IOM,22,0,15,28,null,null,null,null,t,null,null,null,null
+76,telefon: 323964210  fax: 323964245 uwagi: w tym 3 łóżka IOM,45,0,45,28,null,null,null,null,t,null,null,null,null
+77,telefon: 323964230  fax: 323964242 uwagi: w tym 2 IOM,40,0,106,28,null,null,null,null,t,null,null,null,null
+78,telefon: 323964220  fax: 323964270 uwagi: Oddział Neurochirurgii i Neurotraumatologii\r\nw tym 4 IOM,50,0,55,28,null,null,null,null,t,null,null,null,null
+79,telefon: 323964570  fax: brak uwagi: ,20,0,20,28,null,null,null,null,t,null,null,null,null
+80,telefon: 323964350  fax: brak uwagi: w tym 2 IOM,20,0,59,28,null,null,null,null,t,null,null,null,null
+81,telefon: 323964160  fax: brak uwagi: w tym 2 IOM,20,0,61,28,null,null,null,null,t,null,null,null,null
+82,telefon: 323964140  fax: brak uwagi: w tym 2 łóżka IOM,29,0,22,28,null,null,null,null,t,null,null,null,null
+83,telefon: 323964290  fax: brak uwagi: ,51,0,66,28,null,null,null,null,t,null,null,null,null
+84,"telefon: 323964440, 322810271 w. 443  fax: 323964446 uwagi: Dializy - TAK",7,0,100,28,null,null,null,null,t,null,null,null,null
+85,telefon: 323964450  fax: brak uwagi: ,20,0,64,28,null,null,null,null,t,null,null,null,null
+905,telefon: 032 3964170  fax: 032 2816535 uwagi: (4 stanowiska IT),4,0,14,28,null,null,null,null,t,null,null,null,null
+87,telefon: 323964140  fax: brak uwagi: w tym 4,26,0,24,28,null,null,null,null,t,null,null,null,null
+723,"telefon:   fax:  uwagi: 2 łóżka kod 4000, 2 łóżka kod 4272, 2 łózka kod 4130, 2 łóżka kod 4240, 3 łóżka kod 4530, 3 łóżka kod 4500, 2 łóżka kod 4580, 4 łóżka kod 4570, 2 łóżka kod 4600, 2 łóżka kod 4610, 2 łóżka kod 4220, 4 łóżka kod 4222",30,0,191,28,null,null,null,null,t,null,null,null,null
+856,telefon: 323964580  fax: 323890914 uwagi: w tym 2 łóżka IOM,35,0,110,28,null,null,null,null,t,null,null,null,null
+88,"telefon: 323682343, 323682345, 323682347  fax:  uwagi: Dializy - TAK",11,0,100,29,null,null,null,null,t,null,null,null,null
+89,"telefon:   fax:  uwagi: Kliniczny Oddział Chirurgii Ortopedyczno-Urazowej, Onkologicznej i Rekonstrukcyjnej",42,0,106,29,null,null,null,null,t,null,null,null,null
+90,telefon:   fax:  uwagi: w tym 3 łóżka IOM,25,0,48,29,null,null,null,null,t,null,null,null,null
+91,telefon:   fax:  uwagi: Kliniczny Oddział Chirurgii Ogólnej i Urazów Wielonarządowych wraz z Zakładem Pielęgniarstwa Chirurgicznego,64,0,45,29,null,null,null,null,t,null,null,null,null
+92,telefon:   fax:  uwagi: Oddział Chorób Wewnętrznych i Onkologii Klinicznej,41,0,1,29,null,null,null,null,t,null,null,null,null
+93,telefon:   fax:  uwagi: ,18,0,63,29,null,null,null,null,t,null,null,null,null
+94,telefon:   fax:  uwagi: ,28,0,15,29,null,null,null,null,t,null,null,null,null
+95,telefon:   fax:  uwagi: W tym 2 łóżka IOM,15,0,22,29,null,null,null,null,t,null,null,null,null
+96,telefon:   fax:  uwagi: ,50,0,55,29,null,null,null,null,t,null,null,null,null
+97,telefon:   fax:  uwagi: Oddział Okulistyczny z pododdziałem Okulistyki Dziecięcej i Zespołem Zabiegowym,35,0,59,29,null,null,null,null,t,null,null,null,null
+98,telefon:   fax:  uwagi: Kliniczny Oddział Urologii. W tym 2 łóżka IOM.,26,0,64,29,null,null,null,null,t,null,null,null,null
+99,telefon:   fax:  uwagi: Oddział Otolaryngologii i Onkologii Laryngologicznej. ,13,0,61,29,null,null,null,null,t,null,null,null,null
+100,telefon:   fax:  uwagi: w tym 4 IOM,30,0,10,29,null,null,null,null,t,null,null,null,null
+101,telefon:   fax:  uwagi: Oddział Pulmunologii i Nowotworów Płuc i Mukowiscydozy,20,0,133,29,null,null,null,null,t,null,null,null,null
+103,telefon:   fax:  uwagi: Oddział Gastroenterologii i Onkologii Przewodu Pokarmowego,30,0,6,29,null,null,null,null,t,null,null,null,null
+104,telefon:   fax:  uwagi: ,21,0,88,29,null,null,null,null,t,null,null,null,null
+105,telefon:   fax:  uwagi: W tym 4 łóżka IOM,16,0,24,29,null,null,null,null,t,null,null,null,null
+106,telefon:   fax:  uwagi: ,14,0,14,29,null,null,null,null,t,null,null,null,null
+107,telefon:   fax:  uwagi: ,4,0,108,29,null,null,null,null,t,null,null,null,null
+626,"telefon: 32 3682165, 323682166, 323682168; SOR (obszar obserwacji): 32 3682172  fax:  uwagi: Stanowiska IT",2,0,72,29,null,null,null,null,t,null,null,null,null
+688,telefon:   fax:  uwagi: 4530- 3\r\n4220- 2\r\n4222- 4\r\n4560- 4\r\n4242- 2,16,0,191,29,null,null,null,null,t,null,null,null,null
+690,"telefon: 32 3682165, 323682166, 323682168; SOR (obszar obserwacji): 32 3682172  fax:  uwagi: ",4,0,192,29,null,null,null,null,t,null,null,null,null
+925,telefon:   fax:  uwagi: Pododdział Neurochirurgii Dziecięcej,4,0,56,29,null,null,null,null,t,null,null,null,null
+108,"telefon:   fax:  uwagi: w tym 2 IOM, 4 łóżka intensywnego nadzoru kardiologicznego",52,0,1,30,null,null,null,null,t,null,null,null,null
+109,telefon:   fax:  uwagi: w tym 2 IOM,30,0,42,30,null,null,null,null,t,null,null,null,null
+110,telefon:   fax:  uwagi: w tym 2 IOM,40,0,45,30,null,null,null,null,t,null,null,null,null
+111,"telefon:   fax:  uwagi: w tym 12 łóżek noworodków, 5 inkubatorów",17,0,75,30,null,null,null,null,t,null,null,null,null
+834,telefon:   fax:  uwagi: 6 IOM - kod 4000,6,0,191,48,null,null,null,null,t,null,null,null,null
+703,"telefon:   fax:  uwagi: 2 łóżka IOM - kod 4000, 2 łóżka IOM - kod 4450, 2 łóżka IOM - kod 4500",6,0,191,30,null,null,null,null,t,null,null,null,null
+112,"telefon: 327861492, 327861500, 327861503, 327861508  fax: brak uwagi: Katedra i Oddział Kliniczny Pediatrii.\r\nW tym 1 łóżko IOM.",55,0,40,31,null,null,null,null,t,null,null,null,null
+113,"telefon: 327861528, 327861532  fax: brak uwagi: Oddział Kliniczny Chirurgii Ogólnej  i Chirurgii Endokrynologicznej.\r\nW tym 1 łóżko IOM.",50,0,45,31,null,null,null,null,t,null,null,null,null
+114,"telefon: 327861628, 327861634, 327861637  fax: brak uwagi: Katedra i Oddział Kliniczny Chorób Wewnętrznych, Angiologii i Medycyny Fizykalnej.\r\n",70,0,1,31,null,null,null,null,t,null,null,null,null
+115,"telefon: Katedra i Oddz. Kliniczny G,P i GO: 327861562, 327861546, 327861551, 327861560 oraz Oddział P i G 327861483  fax: brak uwagi: Katedra i Oddział Kliniczny Ginekologii, Położnictwa i Ginekologii Onkologicznej - 95\r\nOddział Położnictwa i Ginekologii - 40\r\nW tym 3 łóżka IOM.",135,0,42,31,null,null,null,null,t,null,null,null,null
+116,"telefon: Blok  5: 327861559, Blok 3: 327861487  fax:  uwagi: Oddział Noworodków Blok nr 5  - 48\r\nOddział Noworodków Blok nr 3 - 15, w tym 12 łóżek dla noworodków",66,0,75,31,null,null,null,null,t,null,null,null,null
+117,telefon: 327861605  fax: brak uwagi: Oddział Dermatologii  i Wenerologii,12,0,20,31,null,null,null,null,t,null,null,null,null
+118,telefon: 327861606  fax: brak uwagi: w tym 1 łóżko IOM,15,0,62,31,null,null,null,null,t,null,null,null,null
+119,telefon: 327861610  fax: brak uwagi: w tym 1 łóżko IOM,12,0,46,31,null,null,null,null,t,null,null,null,null
+795,"telefon:   fax:  uwagi: 1 łóżko kod 4401, 1 łóżko kod 4500, 3 łóżka kod 4450 (2 łóżka Katedra i Oddz. Kliniczny Ginekologii, Położnictwa i Ginekologii Onkolog. oraz 1 łózko Oddz. Położnictwa i Ginekologii), 1 łóżko kod 4611, 1 łóżko kod 4501.",7,0,191,31,null,null,null,null,t,null,null,null,null
+121,telefon: 33 8102272 (wew. i hemat.) 33 8102585 (wew. i diabet.)  fax: 33 8102101 uwagi: ,44,0,1,32,null,null,null,null,t,null,null,null,null
+122,telefon: 33 8102195  fax: 33 8102101 uwagi: Oddział Kardiologiczny ze Stanowiskami Intensywnego Nadzoru Kardiologicznego (w tym 6 stanowisk intensywnego nadzoru kardiologicznego).,28,0,10,32,null,null,null,null,t,null,null,null,null
+123,telefon: 33 8102475  fax: 33 8102101 uwagi: Oddział Laryngologii i Onkologii Laryngologicznej  z Pracownią Audiologiczną i Pracownią Endoskopii,20,0,61,32,null,null,null,null,t,null,null,null,null
+124,telefon: 33 8102577  fax: 33 8102101 uwagi: W tym 16 łóżek udarowych. 4 łóżka IOM.,37,0,22,32,null,null,null,null,t,null,null,null,null
+126,telefon: 33 8102263  fax: 33 8102101 uwagi: Oddział Chirurgii Ogólnej i Naczyniowej. W tym 4 łóżka IOM.,46,0,48,32,null,null,null,null,t,null,null,null,null
+127,"telefon: 338102595, 338102597, 3381025998, 338102593  fax: 338102101 uwagi: 13 stanowisk IT",13,0,100,32,null,null,null,null,t,null,null,null,null
+128,telefon: 33 8102564  fax: 33 8102101 uwagi: ,17,0,15,32,null,null,null,null,t,null,null,null,null
+129,telefon: 33 8102525  fax: 33 8102101 uwagi: ,70,0,42,32,null,null,null,null,t,null,null,null,null
+130,telefon: 33 8102512  fax: 33 8102101 uwagi: Oddział Noworodkowy\r\n19 łóżeczek.,19,0,85,32,null,null,null,null,t,null,null,null,null
+131,telefon: 33 8102355  fax: 33 8102101 uwagi: Oddział Urologii i Onkologii Urologicznej. ,32,0,64,32,null,null,null,null,t,null,null,null,null
+132,telefon: 33 8102366  fax: 33 8102101 uwagi: ,26,0,55,32,null,null,null,null,t,null,null,null,null
+133,telefon: 33 8102485  fax: 33 8102101 uwagi: Dodatkowo 6 miejsc pobytu dzoiennego.,18,0,59,32,null,null,null,null,t,null,null,null,null
+134,telefon: 33 8102460  fax: 33 8102101 uwagi: ,67,0,106,32,null,null,null,null,t,null,null,null,null
+1008,telefon:   fax:  uwagi: W tym 2 stanowiska IT. Dodatkowo 3 miejsca pobytu dziennego.,20,0,9,32,null,null,null,null,t,null,null,null,null
+627,"telefon: Izba przyjęć: 33 8102610, Pielęgniarka Oddziałowa: 33 8102601, tel. kom. 338 102 800  fax: 33 8102101 uwagi: Stanowisko IT",4,0,72,32,null,null,null,null,t,null,null,null,null
+725,telefon:   fax:  uwagi: 4000- 4\r\n4050- 2\r\n4610- 2\r\n4220- 2\r\n4530- 4\r\n4130- 2\r\n4450- 2\r\n4640- 2\r\n4570- 2\r\n4421- 4\r\n4580- 2\r\n4902- 4\r\n4222- 4,14,0,191,32,null,null,null,null,t,null,null,null,null
+727,telefon: 33 8102610  fax: 33 8102101 uwagi: ,8,0,192,32,null,null,null,null,t,null,null,null,null
+877,telefon: 338102183  fax: 338102101 uwagi: Oddział Gastroenterologiczny i Chorób Wewnętrznych z pracownią endoskopii\r\nW tym 2 łóżka IOM.,35,0,6,32,null,null,null,null,t,null,null,null,null
+1051,telefon:   fax:  uwagi: W tym 8 stanowisk IT.\r\nOddział Patologii Noworodka.,20,0,75,32,null,null,null,null,t,null,null,null,null
+135,telefon: 33 8122028 wew. 34  fax: 33 8123098 uwagi: ,30,0,133,33,null,null,null,null,t,null,null,null,null
+138,telefon: 33 8122028 wew. 32  fax: 33 8123098 uwagi: ,30,0,1,33,null,null,null,null,t,null,null,null,null
+139,telefon: 33 8122028 wew. 35  fax: 33 8123098 uwagi: w tym 4 łóżka intensywnego nadzoru kardilogicznego,30,0,10,33,null,null,null,null,t,null,null,null,null
+801,telefon:   fax:  uwagi: 5 IOM - kod 4220,5,0,191,33,null,null,null,null,t,null,null,null,null
+140,"telefon: 32 2591200  fax: 32 2554633 uwagi: Odcinek nr 1 Chorób Wewnętrznych - ul. Reymonta 8, 40-029 Katowice - 12 łóżek szpitalnych\r\nOdcinek nr 4 Chorób Wewnętrznych - ul. Francuska 20-24, 40-027 Katowice - 7 łóżek szpitalnych\r\n\r\n",19,0,1,34,null,null,null,null,t,null,null,null,null
+141,"telefon: 32 2591200  fax: 32 2554633 uwagi: Odcinek Hematologii - ul. Dąbrowskiego 25, 40-032 Katowice. ",41,0,9,34,null,null,null,null,t,null,null,null,null
+142,"telefon: 32 2591200  fax: 32 2554633 uwagi: Odcinek nr 3 Nefrologii - ul. Francuska 20-24, 40-027 Katowice.",32,0,15,34,null,null,null,null,t,null,null,null,null
+143,"telefon: 32 2591200  fax: 32 2554633 uwagi: W tym 2 łóżka IOM.\r\nOdcinek nr 1 Otorynolaryngologii - ul. Francuska 20-24, 40-027 Katowice.\r\n",26,0,61,34,null,null,null,null,t,null,null,null,null
+144,"telefon: 32 2591200  fax: 32 2554633 uwagi: Odcinek Dermatologii i Wenerologii - ul. Francuska 20-24, 40-027 Katowice.",64,0,20,34,null,null,null,null,t,null,null,null,null
+145,"telefon: 32 2591200  fax: 32 2554633 uwagi: W tym 2 łóżka IOM.\r\nOdcinek Chirurgii Szczękowo-Twarzowej - ul. Francuska 20-24, 40-027 Katowice.\r\n",26,0,63,34,null,null,null,null,t,null,null,null,null
+146,"telefon: 32 2591200  fax: 32 2554633 uwagi: W tym 2 łóżka IOM.\r\nOdcinek nr 1 Transplantacji - ul. Francuska 20-24, 40-027 Katowice.\r\n",2,0,164,34,null,null,null,null,t,null,null,null,null
+147,"telefon: 322591539, 322591537, 322591535, 322591200,  fax: 322554633 uwagi: Dializy - TAK.\r\nOdcinek Anestezjologii i Intensywnej Terapii - ul. Francuska 20-24, 40-027 Katowice.",7,0,100,34,null,null,null,null,t,null,null,null,null
+665,telefon:   fax:  uwagi: 4630- 2\r\n4650- 2\r\n4240- 2\r\n4658- 10\r\n,16,0,191,34,null,null,null,null,t,null,null,null,null
+919,"telefon: 32 259 12 00  fax:  uwagi: W tym 10 łóżek IOM.\r\nOdcinek nr 2 Transplantacji Szpiku - ul. Dąbrowskiego 25, 40-032 Katowice.",54,0,197,34,null,null,null,null,t,null,null,null,null
+916,"telefon: 32 259 12 00  fax:  uwagi: W tym 2 łóżka IOM.\r\nOdcinek nr 3 Chirurgii Transplantacyjnej - ul. Francuska 20-24, 40-027 Katowice.",16,0,196,34,null,null,null,null,t,null,null,null,null
+917,"telefon: 32 259 12 00  fax:  uwagi: Odcinek nr 1 Chirurgii Ogólnej - ul. Francuska 20-24, 40-027 Katowice.",12,0,45,34,null,null,null,null,t,null,null,null,null
+918,"telefon: 32 259 12 00  fax:  uwagi: Odcinek nr 2 Chirurgii Naczyniowej - ul. Francuska 20-24, 40-027 Katowice.",13,0,48,34,null,null,null,null,t,null,null,null,null
+920,"telefon: 32 259 12 00  fax:  uwagi: Odcinek nr 2 Endokrynologii - ul. Reymonta 8, 40-029 Katowice",8,0,5,34,null,null,null,null,t,null,null,null,null
+921,"telefon: 32 259 12 00  fax:  uwagi: W tym 2 łóżka IOM.\r\nOdcinek nr 3 Onkologii Klinicznej - ul. Reymonta 8, 40-029 Katowice.",47,0,110,34,null,null,null,null,t,null,null,null,null
+148,"telefon: 327357410, 327357420  fax: brak uwagi: LECZENIE OPARZEŃ \r\nw tym 5 łóżek IOM",42,0,45,35,null,null,null,null,t,null,null,null,null
+149,"telefon: 327357440, 327357460, 322292000  fax: brak uwagi: ",4,0,100,35,null,null,null,null,t,null,null,null,null
+774,telefon:   fax:  uwagi: 5 łóżek kod 4500.,5,0,191,35,null,null,null,null,t,null,null,null,null
+150,telefon: 32 3732372  fax: 32 2711010 uwagi: Kliniczny Oddział Kardiologii,33,0,10,36,null,null,null,null,t,null,null,null,null
+151,"telefon: 32 3732381  fax: 32 2716335 uwagi: Kliniczny Oddział Chirurgii Ogólnej, Bariatrycznej i Medycyny Ratunkowej. W tym 4 łóżka IOM.",37,0,45,36,null,null,null,null,t,null,null,null,null
+152,telefon: 32 3732395  fax: 32 2717420 uwagi: Kliniczny Oddział Otolaryngologii i Onkologii Laryngologicznej. \r\nW tym 2 łóżka IOM.,45,0,61,36,null,null,null,null,t,null,null,null,null
+153,"telefon: 32 3732323  fax: 32 2713165 uwagi: Kliniczny Oddział Chorób Wewnętrznych, Dermatologii i Alergologii. W tym 2 łóżka IOM.",21,0,20,36,null,null,null,null,t,null,null,null,null
+154,telefon: 32 3732372  fax: 32 2711010 uwagi: ,8,0,14,36,null,null,null,null,t,null,null,null,null
+717,"telefon:   fax:  uwagi: 4 łóżka IOM -  oddział 4500, 2 łóżka IOM - oddział 4610, 2 łóżka IOM - oddział 4200",8,0,191,36,null,null,null,null,t,null,null,null,null
+155,telefon: Oddz. zamknięty: 33 8123041 wew. 138; Oddz. otwarty: 139  fax: 33 8113923 uwagi: Oddział Psychiatryczny z Pododdziałem Rehabilitacji Psychiatrycznej. Podział na oddział zamknięty i otwarty. ,69,0,66,37,null,null,null,null,t,null,null,null,null
+734,telefon:   fax:  uwagi: ,1,0,191,37,null,null,null,null,t,null,null,null,null
+160,telefon: 32 3963262  fax:  uwagi: Oddział Kardiologii ze stanowiskami intensywnego nadzoru. W tym 4 stanowiska intensywnego nadzoru kardiologicznego.,28,0,10,38,null,null,null,null,t,null,null,null,null
+161,telefon: 32 3963273  fax: 32 3963251 uwagi: W tym 3 łóżka IOM.,38,0,1,38,null,null,null,null,t,null,null,null,null
+162,telefon: 32 3963203  fax:  uwagi: Oddział Chirurgii Ogólnej i Gastroenterologii.\r\nw tym 2 IOM,47,0,45,38,null,null,null,null,t,null,null,null,null
+163,telefon: 32 3963255  fax:  uwagi: ,21,0,59,38,null,null,null,null,t,null,null,null,null
+165,"telefon: 32 2819244 centrala  fax:  uwagi: Oddział Obserwacyjno Zakaźny i Hepatologii Zakaźnej - Aleja Legionów 49, Bytom. \r\nw tym 2 łóżka IOM.",60,0,111,38,null,null,null,null,t,null,null,null,null
+721,"telefon:   fax:  uwagi: 3 łóżka kod 4220, 2 łóżka kod 4500, 2 łóżka kod 4348, 4 łóżka kod 4070, 4 łózka kod 4222, 3 łóżka kod 4000",18,0,191,38,null,null,null,null,t,null,null,null,null
+166,telefon: 326219517  fax: brak uwagi: ,45,0,1,39,null,null,null,null,t,null,null,null,null
+167,telefon: 326219514  fax: brak uwagi: Oddział Chirurgii Ogólnej i Krótkoterminowej,32,0,45,39,null,null,null,null,t,null,null,null,null
+168,telefon: 326216515  fax: brak uwagi: w tym 2 łóżka IOM,12,0,22,39,null,null,null,null,t,null,null,null,null
+169,telefon: 326216515  fax: brak uwagi: w tym 4 łóżka IOM,16,0,24,39,null,null,null,null,t,null,null,null,null
+170,telefon: 326219519  fax: brak uwagi: Oddział Psychiatryczny z Pododdziałem Detoksykacji Alkoholowych Zespołów Abstynencyjnych,34,0,66,39,null,null,null,null,t,null,null,null,null
+171,telefon: 326219526  fax: brak uwagi: w tym 2 łóżka IOM,35,0,42,39,null,null,null,null,t,null,null,null,null
+172,"telefon: Neonatologii: 326219526, Patologii Noworodka: 326219528  fax: brak uwagi: Oddz. Neonatologii 15 łóżek \r\nOddz. Patologii Noworodka 10 łóżek (w tym 2 łóżka IOM)",25,0,75,39,null,null,null,null,t,null,null,null,null
+173,telefon: 326219528  fax: brak uwagi: ,29,0,40,39,null,null,null,null,t,null,null,null,null
+174,telefon: 326219521  fax: brak uwagi: ,9,0,61,39,null,null,null,null,t,null,null,null,null
+782,"telefon:   fax:  uwagi: 2 łóżka kod 4220, 4 łóżka kod 4222, 2 łóżka kod 4450, 2 łóżka kod 4421.",10,0,191,39,null,null,null,null,t,null,null,null,null
+175,telefon: 32 6164482 wew. 260  fax: 32 7519844 uwagi: Oddział Chirurgii Ogólnej i Endokrynologicznej. W tym 5 łóżek IOM.,45,0,45,41,null,null,null,null,t,null,null,null,null
+176,telefon: 32 6164482 wew. 254  fax: 32 7519844 uwagi: W tym 3 łóżka IOM.,41,0,106,41,null,null,null,null,t,null,null,null,null
+177,telefon: 32 6164482 wew. 254  fax: 32 7519844 uwagi: W tym 2 łóżka IOM.,26,0,46,41,null,null,null,null,t,null,null,null,null
+178,telefon: 32 6164482 wew. 252  fax: 32 7519844 uwagi: W tym 2 łóżka IOM.,40,0,42,41,null,null,null,null,t,null,null,null,null
+179,telefon: 32 6164482 wew. 149  fax: 32 7519844 uwagi: 22 w tym 7 inkubatorów,22,0,75,41,null,null,null,null,t,null,null,null,null
+180,telefon: 32 6164482 wew. 143  fax: 32 7519844 uwagi: Oddział Chorób Wewnętrznych z Pododdziałem Gastroenterologicznym. W tym 4 łóżka IOM.,62,0,1,41,null,null,null,null,t,null,null,null,null
+181,telefon: 32 6164482 wew. 268  fax: 32 7519844 uwagi: ,32,0,10,41,null,null,null,null,t,null,null,null,null
+182,telefon: 32 6164482 wew. 128  fax: 32 7519844 uwagi: W tym 2 łóżka IOM.,30,0,40,41,null,null,null,null,t,null,null,null,null
+183,telefon: 32 6164482 wew. 134  fax: 32 7519844 uwagi: W tym 2 łóżka IOM.,16,0,22,41,null,null,null,null,t,null,null,null,null
+184,"telefon: 326164482 wew. 123, 323174523  fax: 327519844 uwagi: ",9,0,100,41,null,null,null,null,t,null,null,null,null
+185,telefon: 32 6164482 wew. 178  fax: 32 7519844 uwagi: W tym 2 łóżka IOM.,20,0,64,41,null,null,null,null,t,null,null,null,null
+186,telefon: 32 6164482 wew. 134  fax: 32 7519844 uwagi: W tym 4 łóżka IOM.,16,0,24,41,null,null,null,null,t,null,null,null,null
+633,"telefon: 32 6164482 wew. 271; 32 3174589, 32 3174588  fax: 32 7519844 uwagi: Stanowiska IT",2,0,72,41,null,null,null,null,t,null,null,null,null
+763,telefon:   fax:  uwagi: 4500- 5\r\n4580- 3\r\n5401- 2\r\n4450- 2\r\n4000- 4\r\n4401- 2\r\n4220- 2\r\n4902- 2\r\n4640- 2\r\n4222- 4,28,0,191,41,null,null,null,null,t,null,null,null,null
+765,telefon: 32 6164482 wew. 271  fax: 32 7519844 uwagi: W tym 2 łóżka IOM,6,0,192,41,null,null,null,null,t,null,null,null,null
+187,telefon: 32 6740206  fax: 32 6721532 uwagi: Oddział Chorób Wewnętrznych z Pododdziałem Kardiologicznym (w tym 4 łóżka IOM).,64,0,1,42,null,null,null,null,t,null,null,null,null
+188,telefon: 32 6740244  fax: 32 6721532 uwagi: W tym 4 łóżka IOM.,28,0,45,42,null,null,null,null,t,null,null,null,null
+189,telefon: 32 6740278  fax: 32 6721532 uwagi:  W tym 2 łóżka IOM.,18,0,40,42,null,null,null,null,t,null,null,null,null
+190,telefon: 32 6740280  fax: 32 6721532 uwagi: Oddział Położniczo-Ginekologiczny z Blokiem Porodowym. W tym 2 łóżka IOM. ,30,0,42,42,null,null,null,null,t,null,null,null,null
+191,telefon: 32 6740291  fax: 32 6721532 uwagi: w tym Pododdział Skórno-Wenerologiczny,22,0,111,42,null,null,null,null,t,null,null,null,null
+192,telefon: 32 6740204  fax: 32 6721532 uwagi: Oddział Neurologiczny z Pododdziałem Udarowym. W tym 8 łóżek IOM.,44,0,22,42,null,null,null,null,t,null,null,null,null
+194,telefon: 32 6740307  fax: 32 6721532 uwagi: ,17,0,59,42,null,null,null,null,t,null,null,null,null
+195,telefon: 32 6740273  fax: 32 6721532 uwagi: W tym 2 łóżka IOM.,28,0,106,42,null,null,null,null,t,null,null,null,null
+196,telefon: 32 6740257  fax: 32 6721532 uwagi: Oddział Noworodków z Pododdziałem Patologii Noworodka .\r\n,12,0,75,42,null,null,null,null,t,null,null,null,null
+197,telefon: 326740209  fax: 326721532 uwagi: w tym 7 łóżek IOM.,7,0,100,42,null,null,null,null,t,null,null,null,null
+829,telefon: 32 6740204  fax: 32 6721532 uwagi: ,24,0,24,42,null,null,null,null,t,null,null,null,null
+199,telefon:   fax: 32 6721532 uwagi: Brak kontraktu,24,0,88,42,null,null,null,null,t,null,null,null,null
+827,"telefon:   fax:  uwagi: 4 łóżka kod 4000, 2 lóżka kod 4500, 2 łóżka kod 4401, 2 łóżka kod 4450, 1 łóżko 4220, 2 łóżka kod 4580, 7 łóżek kod 4260, 4 łóżka 4222",24,0,191,42,null,null,null,null,t,null,null,null,null
+1069,telefon:   fax:  uwagi: ,33,0,203,42,null,null,null,null,t,null,null,null,null
+928,"telefon: 32 674 02 22  fax: 32 672 24 57 uwagi: Szpitalny Oddział Ratunkowy:\r\n4 łóżka obserwacyjne,\r\n2 łózka IT",6,0,192,42,null,null,null,null,t,null,null,null,null
+929,"telefon: Rejestracja SOR (dyżurka pielęgniarska): 32 6740222, Gabinet lekarski: 32 6740419  fax: 32 672 24 57 uwagi: Szpitalny Oddział Ratunkowy:\r\n2 łóżka IT,\r\n4 łóżka obserwacyjne",6,0,72,42,null,null,null,null,t,null,null,null,null
+200,"telefon: 32 2382091/96  fax: 32 2382311 uwagi: Oddział Ginekologii, Położnictwa i Patologii Ciąży",63,0,42,45,null,null,null,null,t,null,null,null,null
+201,"telefon: 32 2382091/96  fax: 32 2382311 uwagi: Oddział Fizjologii, Patologii i Intensywnej Opieki Medycznej Noworodków. W tym 2 łóżka IOM.",41,0,75,45,null,null,null,null,t,null,null,null,null
+202,telefon: 32 2382091/96  fax: 32 2382311 uwagi: ,13,0,59,45,null,null,null,null,t,null,null,null,null
+203,telefon: 32 2382091/96  fax: 32 2382311 uwagi: 1 łóżko IOM.,20,0,61,45,null,null,null,null,t,null,null,null,null
+705,"telefon:   fax:  uwagi: 2 łóżka IOM kod 4421, 1 łóżko IOM - kod 4610",3,0,191,45,null,null,null,null,t,null,null,null,null
+204,"telefon: lek. 323576283, piel. 323576221  fax: 32 3576238 uwagi: Oddział Chorób Wewnętrznych z Pododdziałem Diagnostyki Kardiologicznej oraz Diabetologii\r\nw tym 2 IOM",40,0,1,46,null,null,null,null,t,null,null,null,null
+205,"telefon: lek.:323576258, 323576263, piel.:323576271, 323576267  fax: 32 3576238 uwagi: Oddział Ginekologiczno-Położniczy z Pododdziałem Ginekologii Onkologicznej, w tym 4 łóżka IOM.",38,0,42,46,null,null,null,null,t,null,null,null,null
+206,"telefon: lek. 323576265, piel. 323576264  fax: 32 3576238 uwagi: W tym 3 łóżka IOM, 26 łóżek dla noworodków, 6 inkubatorów. ",32,0,75,46,null,null,null,null,t,null,null,null,null
+207,"telefon: lek. 323576239, piel. 323576292  fax: 32 3576238 uwagi: W tym 2 łóżka IOM.",27,0,106,46,null,null,null,null,t,null,null,null,null
+208,"telefon: lek. 323576209, piel. 323576249  fax: 32 3576238 uwagi: W tym 2 łóżka IOM.",22,0,45,46,null,null,null,null,t,null,null,null,null
+209,"telefon: lek. 32 3576230, sala IT. 32 3576215, piel. 32 3576256  fax: 32 3576238 uwagi: 6 stanowisk IT.",6,0,100,46,null,null,null,null,t,null,null,null,null
+210,"telefon: lek. 323576239, piel. 323576292  fax: brak uwagi: Pododdział Ortopedii dla Dzieci, w tym 2 łóżka IOM.",3,0,108,46,null,null,null,null,t,null,null,null,null
+803,telefon:   fax:  uwagi: 4000 (Oddział chorób wew. I) - 4 IOM,4,0,191,70,null,null,null,null,t,null,null,null,null
+667,"telefon:   fax:  uwagi: Oddział 4000 - 2 łóżka IOM,\r\nOddział 4450 - 4 łóżka IOM,\r\nOddział 4421 - 3 łóżek IOM,\r\nOddział 4580 - 2 łóżka IOM,\r\nOddział 4581 - 2 łóżka IOM,\r\nOddział 4500 - 2 łóżka IOM.",15,0,191,46,null,null,null,null,t,null,null,null,null
+212,"telefon: 32 2334112 wew. 283  fax: 32 2335244, 32 2334325 uwagi: Oddział internistyczny VIII - 28 łóżek, w tym 6 IOM",28,0,1,48,null,null,null,null,t,null,null,null,null
+213,"telefon: Oddz. przew. XI: 32 2334112 wew. 231; Oddz. przew. XIV: 32 2334112 wew. 235; Oddz. przew. XV: 32 2334112 wew. 236   fax: 32 2335244, 32 2334325 uwagi: Oddział Psychiatryczny przewlekły XI - 45\r\nOddział Psychiatryczny przewlekły XIV - 30\r\nOddział Psychiatryczny przewlekły XV - 32",107,0,125,48,null,null,null,null,t,null,null,null,null
+214,"telefon: Oddz. sąd. V: 32 2334112 wew. 225; Oddz. sąd. VI: 32 2334112 wew. 226; Oddz. sąd. dla nielet. o wzmoc. zab. XVII: 32 2334112 wew. 360   fax: 32 2335244, 32 2334325 uwagi: Oddział psychiatryczny sądowy VI  - 30\r\nOddział psychiatryczny sądowy V - 30\r\nOddział psychiatryczny sądowy dla nieletnich o wzmocnionym zabezpieczeniu XVII - 25",85,0,92,48,null,null,null,null,t,null,null,null,null
+216,"telefon: 32 2334112 wew. 232  fax: 32 2335244, 32 2334325 uwagi: Oddział Detoksykacji Alkoholowej XII",25,0,94,48,null,null,null,null,t,null,null,null,null
+217,"telefon: 32 2334112 wew. 233  fax: 32 2335244, 32 2334325 uwagi: Oddział Odwykowy Alkoholowy",26,0,95,48,null,null,null,null,t,null,null,null,null
+219,"telefon: Oddz. ogól. I: 32 2334112 wew. 221; Oddz. ogól. II: 32 2334112 wew. 222; Oddz. ogól. III: 32 2334112 wew. 223; Oddz. ogól. IV: 32 2334112 wew. 224; Oddz. ogól. IX: 32 2334112 wew. 229; Oddz. ogól. X: 32 2334112 wew. 230     fax: 32 2335244, 32 2334325 uwagi: Oddział psychiatryczny ogólny I - 40 (męski)\r\nOddział psychiatryczny ogólny II - 45 (męski)\r\nOddział psychiatryczny ogólny III - 45 (męski)\r\nOddział psychiatryczny ogólny IV - 45 (męski)\r\nOddział psychiatryczny ogólny IX - 45 (żeński)\r\nOddział psychiatryczny ogólny X - 45 (żeński)",265,0,66,48,null,null,null,null,t,null,null,null,null
+220,"telefon: 32 2334838  fax: 32 2335244, 32 2334325 uwagi: Oddział Rehabilitacji Psychiatrycznej XVI w Dąbrówce - Rezerwat Przyrody \""Hubertus\"", 44-187 Wielowieś",40,0,68,48,null,null,null,null,t,null,null,null,null
+221,telefon: 32 33 08 300  fax: 32 33 08 401 uwagi: w tym 4 IOM,38,0,1,49,null,null,null,null,t,null,null,null,null
+224,telefon: 32 33 08 300  fax: 32 33 08 401 uwagi: ,6,0,59,49,null,null,null,null,t,null,null,null,null
+226,telefon: 32 33 08 300  fax:  uwagi: w tym 7 stanwisk IT,7,0,100,49,null,null,null,null,t,null,null,null,null
+699,"telefon:   fax:  uwagi: 7 łóżkek kod 4260,",7,0,191,49,null,null,null,null,t,null,null,null,null
+227,telefon: 326027000  fax: 326027102 uwagi: w tym 1 łóżko IOM,58,0,64,50,null,null,null,null,t,null,null,null,null
+676,telefon:   fax:  uwagi: 2 łóżka kod 4640.,2,0,191,50,null,null,null,null,t,null,null,null,null
+229,telefon:   fax:  uwagi: w tym 2 łóżka Intensywnego nadzoru kardiologicznego,35,0,1,51,null,null,null,null,t,null,null,null,null
+230,telefon:   fax:  uwagi: ,18,0,45,51,null,null,null,null,t,null,null,null,null
+231,telefon:   fax:  uwagi: ,18,0,106,51,null,null,null,null,t,null,null,null,null
+678,telefon:   fax:  uwagi: 2 IOM - kod 4220,2,0,191,51,null,null,null,null,t,null,null,null,null
+232,"telefon: 33 4991840, 33 4991860, 33 4991880  fax: 33 4991814, 33 4991863, 33 4991879  uwagi: Oddział Pulmunologiczny z Pododdziałem chemioterapii - 36 łóżek\r\nOddział Pulmunologiczno-Alergologiczny - 28 łóżek\r\nOddział Pulmunologiczny - 29 łóżek",93,0,133,52,null,null,null,null,t,null,null,null,null
+233,telefon: 33 4991870  fax:  uwagi: ,28,0,1,52,null,null,null,null,t,null,null,null,null
+234,telefon: 33 4991890  fax: 33 4991891 uwagi: ,45,0,47,52,null,null,null,null,t,null,null,null,null
+235,telefon: 334991899  fax: brak uwagi: ,5,0,100,52,null,null,null,null,t,null,null,null,null
+799,telefon:   fax:  uwagi: ,1,0,191,52,null,null,null,null,t,null,null,null,null
+858,telefon: 33 4991855  fax: 33 4991851 uwagi: ,35,0,31,52,null,null,null,null,t,null,null,null,null
+236,"telefon: O. Wew. 32 3255213 ; O. Wew. z kardiol. 32 3255316  fax:   uwagi: Oddział Chorób Wewnętrznych - 55\r\nOddział Chorób Wewnętrznych z Pododdziałem Kardiologicznym - 35, w tym 2 łóżka IOM.",90,0,1,53,null,null,null,null,t,null,null,null,null
+237,telefon: 32 3255382  fax:  uwagi: ,20,0,20,53,null,null,null,null,t,null,null,null,null
+238,telefon: 32 3255308  fax:  uwagi: ,20,0,8,53,null,null,null,null,t,null,null,null,null
+239,telefon: 32 3255219  fax:  uwagi: w tym 1 IOM,40,0,22,53,null,null,null,null,t,null,null,null,null
+240,telefon: 32 3255219  fax:  uwagi: W tym 4 łóżek IOM.,18,0,24,53,null,null,null,null,t,null,null,null,null
+241,telefon: 32 3255306  fax:  uwagi: ,15,0,111,53,null,null,null,null,t,null,null,null,null
+242,"telefon: 323255216, 323255373, 323255367  fax:  uwagi: Dializy - TAK",10,0,100,53,null,null,null,null,t,null,null,null,null
+243,telefon: 32 3255251  fax:  uwagi: ,18,0,61,53,null,null,null,null,t,null,null,null,null
+244,telefon: 32 3255241  fax:  uwagi: Oddział chirurgii ogólnej i onkologicznej,45,0,45,53,null,null,null,null,t,null,null,null,null
+245,telefon: 32 3255228  fax:  uwagi: ,20,0,59,53,null,null,null,null,t,null,null,null,null
+246,telefon: 32 3255239  fax:  uwagi: Oddział ginekologiczno - położniczy z pooddziałem ginekologii onkologicznej,70,0,42,53,null,null,null,null,t,null,null,null,null
+247,telefon: 32 3255230  fax:  uwagi: W tym 8 łóżek IOM.\r\n35 łóżek noworodków i 12 inkubatorów,47,0,75,53,null,null,null,null,t,null,null,null,null
+743,"telefon:   fax:  uwagi: 2 łóżka kod 4000, 1 łóżko kod 4220, 4 łóżka kod 4222, 8 łóżek kod 4421",15,0,191,53,null,null,null,null,t,null,null,null,null
+857,telefon: 32 3255246  fax:  uwagi: Oddział Chirurgii Rekonstrukcyjnej Narządu Ruchu,38,0,106,53,null,null,null,null,t,null,null,null,null
+248,telefon: 324784341  fax: 324784202 uwagi: W tym 1 izolatka. Dializy - TAK.\r\nW tym 13 stanowisk IT,13,0,100,54,null,null,null,null,t,null,null,null,null
+249,telefon: 324784371  fax: 324784202 uwagi: w tym 4 łóżek IOM,33,0,55,54,null,null,null,null,t,null,null,null,null
+250,telefon: 324784461  fax: 324784202 uwagi: ,34,0,45,54,null,null,null,null,t,null,null,null,null
+251,telefon: 324784491  fax: 324784202 uwagi: ,40,0,106,54,null,null,null,null,t,null,null,null,null
+253,telefon: 324784432  fax: 324784202 uwagi: ,42,0,42,54,null,null,null,null,t,null,null,null,null
+254,telefon: 324784412  fax: 324784202 uwagi: w tym 2 stanowiska IOM,16,0,61,54,null,null,null,null,t,null,null,null,null
+255,telefon: 324784422  fax: 324784202 uwagi: ,20,0,64,54,null,null,null,null,t,null,null,null,null
+256,"telefon: Oddz. Gastr.-Wew.:324784381, Oddz. Nefrol. - Wew.: 324784350  fax: 324784202 uwagi: \r\nOddział Nefrologiczno - Wewnętrzny - 16, w tym 2 IOM\r\nOddział Gastrologiczno - Wewnętrzny - 37, w tym 2 IOM",51,0,1,54,null,null,null,null,t,null,null,null,null
+257,telefon: 324784442  fax: 324784202 uwagi: ,14,0,59,54,null,null,null,null,t,null,null,null,null
+259,telefon: 324784481  fax: 324784202 uwagi: w tym 2 łóżka IOM,22,0,22,54,null,null,null,null,t,null,null,null,null
+260,telefon: 324784481  fax: 324784202 uwagi: w tym 4 łóżka IOM,16,0,24,54,null,null,null,null,t,null,null,null,null
+261,"telefon: 324784291, 324784294, 324784293  fax: 324784202 uwagi: z Pododdziałem Patologii Noworodka i Niemowlęcia\r\nw tym 8 stanowisk IT ",8,0,101,54,null,null,null,null,t,null,null,null,null
+262,"telefon: 324784591  fax: 324784202 uwagi: w tym: 6 inkubatorów i 17 łóżeczek\r\nw tym 2 intensywnej terapi noworidka\r\nw tym 2 opieki ciągłej dla noworodków po sztucznej wentylacji,\r\nw tym 2 opieki pośredniej dla noworodków niewymagających wsparcia oddechowego",23,0,75,54,null,null,null,null,t,null,null,null,null
+263,"telefon: sekretariat 324784735, lekarz 32 478 47 36, dyżurka lekarska 32 4784718, pielęgniarka oddziałowa 324784742, dyżurka pielęgniarska 32 4784740,   fax: 324784202,  uwagi: \r\n",20,0,40,54,null,null,null,null,t,null,null,null,null
+766,"telefon:   fax:  uwagi: 4 łóżka kod 4570, 6 łóżek kod 4000, 2 łóżka 4220",12,0,191,54,null,null,null,null,t,null,null,null,null
+1061,telefon: 32 4784391  fax:  uwagi: W tym 2 łóżka IOM,40,0,10,54,null,null,null,null,t,null,null,null,null
+1047,"telefon: 324784391  fax: 324784202, uwagi: w tym 6 stanowisk IT",6,0,14,54,null,null,null,null,t,null,null,null,null
+264,telefon: 322283030 wew. 241 lub 242  fax: 322281498 uwagi: Oddział Chirurgii Ogólnej i Onkologicznej ///\r\n\r\nw tym 2 łóżka IOM,20,0,45,55,null,null,null,null,t,null,null,null,null
+265,telefon: 322283030 wew. 220 lub 232  fax: 322281498 uwagi: w tym 2 łóżka IOM,22,0,106,55,null,null,null,null,t,null,null,null,null
+266,telefon: 322283030 wew.  274 lub 287  fax: 322281498 uwagi: Oddział Chorób Wewnętrznych i Gastroenterologii ///\r\n\r\nw tym 2 łóżka IOM\r\n\r\n,34,0,1,55,null,null,null,null,t,null,null,null,null
+267,"telefon: 322283030 wew. 253 (gin.) lub 206, 248, 277 (położn.)  fax: 322281498 uwagi: ",24,0,42,55,null,null,null,null,t,null,null,null,null
+268,telefon: 322283030 wew. 202  fax: 322281498 uwagi: Łóżka noworodkowe - 9 ///\r\nInkubatory - 3,12,0,75,55,null,null,null,null,t,null,null,null,null
+269,"telefon: 322283030 wew. 224, 236 lub 269  fax: 322281498 uwagi: Oddział Anestezjologii i Intensywnej Terapii ///\r\n6 łóżek intensywnej terapii ///\r\nDializy - NIE",6,0,100,55,null,null,null,null,t,null,null,null,null
+772,"telefon:   fax:  uwagi: 2 łóżka kod 4500, 2 łóżka kod 4580, 2 łóżka kod 4000 ",6,0,191,55,null,null,null,null,t,null,null,null,null
+270,"telefon: 324200378  fax: 322514533 uwagi: Oddział Onkologiczny z Pododdziałem Chorób Wewnętrznych, .w tym 4 łóżka IOM",80,0,110,57,null,null,null,null,t,null,null,null,null
+271,telefon: 324200219  fax: 322514533 uwagi: ,11,0,20,57,null,null,null,null,t,null,null,null,null
+272,telefon: 324200301  fax: 322514533 uwagi: w tym 4 łóżka IOM,45,0,42,57,null,null,null,null,t,null,null,null,null
+273,telefon: 324200306  fax: 322514533 uwagi: W tym 24 łóżka dla noworodków.,19,0,75,57,null,null,null,null,t,null,null,null,null
+274,telefon: 324200205  fax: 322514533 uwagi: w tym 2 łóżka OIOM,40,0,133,57,null,null,null,null,t,null,null,null,null
+1049,telefon:   fax:  uwagi: W tym 7 stanowisk IT,7,0,100,57,null,null,null,null,t,null,null,null,null
+277,"telefon: 324200415, 324200419  fax: 322514533 uwagi: ul. Józefowska 119, w tym 2 łóżka IOM.",58,0,8,57,null,null,null,null,t,null,null,null,null
+793,"telefon:   fax:  uwagi: 2 łóżka kod 4240, 4 łóżka kod 4450, 2 łóżka kod 4421, 2 łóżka kod 4580, 2 łóżka kod 4060.",12,0,191,57,null,null,null,null,t,null,null,null,null
+1011,telefon:   fax:  uwagi: Oddział Chirurgii Onkologicznej z Pododdziałem Chirurgii Naczyniowej,22,0,49,57,null,null,null,null,t,null,null,null,null
+278,telefon: 32 7555332  fax:  uwagi: W tym 2 łóżka IOM.,30,0,45,58,null,null,null,null,t,null,null,null,null
+279,telefon: 32 7555352  fax:  uwagi: W tym 2 łóżka IOM.,38,0,106,58,null,null,null,null,t,null,null,null,null
+280,"telefon: 32 7555302  fax:  uwagi: 47 łóżek+16 łóżeczek, w tym 2 łóżka IOM.",35,0,42,58,null,null,null,null,t,null,null,null,null
+281,telefon: 32 7555162  fax:  uwagi: W tym 2 łóżka IOM.,18,0,40,58,null,null,null,null,t,null,null,null,null
+282,telefon: 32 7555362  fax:  uwagi: W tym 2 łóżka IOM.\r\nCzasowe zaprzestanie działalności leczniczej ,12,0,61,58,null,null,null,null,t,null,null,null,null
+283,telefon: 32 7555372  fax:  uwagi: W tym 2 łóżka IOM.,25,0,111,58,null,null,null,null,t,null,null,null,null
+284,telefon: 32 7555212  fax:  uwagi: Dializy - TAK\r\n8 stanowisk IT,8,0,100,58,null,null,null,null,t,null,null,null,null
+285,telefon: 32 7555222  fax:  uwagi: ,12,0,59,58,null,null,null,null,t,null,null,null,null
+286,telefon: 32 7555152  fax:  uwagi: W tym 2 łóżka IOM.,20,0,133,58,null,null,null,null,t,null,null,null,null
+287,telefon: 32 7553702  fax:  uwagi: W tym 2 łóżka IOM.,20,0,8,58,null,null,null,null,t,null,null,null,null
+836,telefon: Oddz. I: 32 7555242 ; oddz. II: 32 7555202  fax:  uwagi: Oddział Wewnętrzny I - 30 (profil kardiologiczno-internistyczny)\r\nOddział Wewnętrzny II - 30 (profil nefrologiczno-gastroenterologiczno-internistyczny),60,0,1,58,null,null,null,null,t,null,null,null,null
+837,"telefon:   fax:  uwagi: 2 łóżka kod 4500, 2 łóżka kod 4580, 2 łóżka kod 4450, 2 łóżka kod 4401, 2 łóżka kod 4610, 2 łóżka kod 4348, 8 łóżek kod 4260, 2 łóżka kod 4272, 2 łóżka kod 4060, 3 łóżka kod 4220, 6 łóżek kod 4222",33,0,191,58,null,null,null,null,t,null,null,null,null
+290,"telefon: 343673503 (pokój lekarzy); 343673500 (dyż. pielęgn.)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: w tym 10 IOM (spełniają kryteria stanowisk IT)",10,0,100,59,null,null,null,null,t,null,null,null,null
+291,"telefon: 343673553(pokój lekarzy); 343673554 (gabinet   fax: 343785251,343785253(Izba Przyjęć) uwagi: Oddział Anestezjologii i Intensywnej Terapii Dziecięcej z  Zespołem Wyjazdowym \""N\"".\r\n 8 inkubatorów",14,0,101,59,null,null,null,null,t,null,null,null,null
+292,"telefon: 343673600 - dyżurka pielęgniarek, 343673116 - pokój lekarzy  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: ul. Bialska 104/118, 42-200 Częstochowa;\r\nOddział Chirurgiczny Ogólny - 75, w tym 4 łóżek IOM.\r\n\r\n",52,0,45,59,null,null,null,null,t,null,null,null,null
+293,"telefon: 343673109(pok. lekarzy);343673611(dyż. pielegn.)  fax: 343785251,343785253(Izba Przyjęć) uwagi: Oddział Chirurgii i Traumatologii Dziecięcej\r\nw tym 2 łózka IOM + 2 inkubatory",37,0,46,59,null,null,null,null,t,null,null,null,null
+996,"telefon: 34 3673304 (p. lek.); 34 3673339 (dyż. piel.); 34 3673340 (gab. zabieg.)  fax: 34 3673309 (pok. sekr. med. pn-pt 7:00-14:35); 34 3785251 i 34 3785253 (Izba Przyjęć) uwagi: Oddział Onkologii z Pododdziałem Dziennym Chemioterapii. 62 łóżek (+ 8 miejsc pobytu dziennego), w tym 2 łóżka IOM.",62,0,110,59,null,null,null,null,t,null,null,null,null
+295,"telefon: 343673474 (dyż. pielęgn.)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: Oddział Gastroenterologii Ogólnej i Onkologicznej z Pododdziałem Chorób Wewnętrznych\r\n",22,0,6,59,null,null,null,null,t,null,null,null,null
+296,"telefon: 343673479, 343673575 (pokój lekarzy), 343673572 (dyż. pielęg.), 343673583 (blok porodowy-dyżurka), 343673530 (IP ginekol-położ.)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: ul. Bialska 104/118, 42-200 Częstochowa;\r\nOddział Ginekologii i Położnictwa  z Pododdziałem  Patologii Ciąży i Ginekologii Onkologicznej - 91, w tym 6 łóżka IOM\r\n\r\n",91,0,42,59,null,null,null,null,t,null,null,null,null
+298,"telefon: 343673458 (dyż. pielęgn.), 343673456 (pokój lekarzy)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: ",23,0,10,59,null,null,null,null,t,null,null,null,null
+299,"telefon: 343673459 (sala intensyw. nadzoru kardiol.), 343673456 (pokoj lekarzy)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: w tym 7 łóżek intensywnego nadzoru kardiologicznego",7,0,14,59,null,null,null,null,t,null,null,null,null
+300,"telefon: 343673515 (pokój lekarzy), 343673517,343673514 (dyż. pielęgn.)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: Oddział  Nefrologii  z Pododdziałem Dializ Otrzewnowych",32,0,15,59,null,null,null,null,t,null,null,null,null
+301,"telefon: 343673383 (pokój lekarzy); 343673385,343673386 (dyż . pielęgn.)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: Oddział Neurochirurgii z Pododdziałem Chirurgii Szczękowo-Twarzowej\r\nw tym 2 IOM",28,0,55,59,null,null,null,null,t,null,null,null,null
+302,"telefon: 343673411 (pokój lekarzy), 343673412 (dyż. pielęgniarek)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: ul. Bialska 104/118, 42-200 Częstochowa;\r\nOddział Neurologiczny - 20, w tym 2 łóżka IOM\r\n\r\n",20,0,22,59,null,null,null,null,t,null,null,null,null
+303,"telefon: 343673411 (pokój lekarzy), 343673412, 343673408 (dyż. pielęgniarek)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: w tym 6 IOM\r\n",21,0,24,59,null,null,null,null,t,null,null,null,null
+843,telefon:   fax:  uwagi: 1 IOM - kod 4270,1,0,191,63,null,null,null,null,t,null,null,null,null
+389,telefon: 323463671  fax: 322414733 uwagi: ,40,0,66,69,null,null,null,null,t,null,null,null,null
+304,"telefon: Oddział Neonatologii: 34 3673564 (p. lekarzy); 34 3673467 (sala intensywnego nadzoru noworodków); Oddział Patologii: 343673345 (pok. lek.), 343673346(dyż.pielęgn.)  fax: 34 3673345 (p. lek. 24h); 34 3785251 i 34 3785253 (Izba Przyjęć) uwagi:  -  58 łóżek, w tym 5 łóżek IOM + 31 inkubatorów",58,0,75,59,null,null,null,null,t,null,null,null,null
+305,"telefon: 343673212 (dyż.pielęgn.)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: ",27,0,59,59,null,null,null,null,t,null,null,null,null
+306,"telefon: 343673483 (pokój lekarzy), 343673485 (dyż. pielęgn.)  fax: 343785251, 343785253 (Izba Przyjęć) uwagi: Oddział Ortopedii i Chirurgii Urazowej",43,0,106,59,null,null,null,null,t,null,null,null,null
+307,"telefon: 343673612,343673113,343673114,343673623 (pok.lek.-dostępny jeden w zależności od lek. spraw. dyż); 343673618, 343673619 (dyż. pielegn.)  fax: 343785251,343785253(Izba Przyjęć) uwagi: Oddział Pediatrii z Pododdziałem Hematologii i Nefrologii Dziecięcej\r\nw tym 2 IOM + 1 inkubator\r\n\r\n",34,0,40,59,null,null,null,null,t,null,null,null,null
+308,telefon: 34 3673123; SOR (informacja): 34 3783123; SOR (dorośli): 34 3783682; SOR (dzieci): 34 3783645  fax: brak uwagi: Szpital Specjalistyczny Parkitka- Szpitalny Oddział Ratunkowy - Stanowiska IT,1,0,72,59,null,null,null,null,t,null,null,null,null
+655,telefon:   fax:  uwagi: w tym 10 IOM w oddziałach dziecięcych oraz 9 IOM w oddziałach neonatologicznych,56,0,191,59,null,null,null,null,t,null,null,null,null
+657,telefon: 343673123  fax: brak uwagi: ,3,0,192,59,null,null,null,null,t,null,null,null,null
+862,"telefon: 343673261 (pokój lekarzy), 343673260 (dyż. pielęgniarek)  fax: 343673524 (pok. piel. oddział. pn-pt 7:00-14:35), 343785251,343785253 (Izba Przyjęć) uwagi: Oddział Chirurgii Onkologicznej z Pododdziałem Chorób Piersi - 25, w tym 2 łóżka IOM",25,0,49,59,null,null,null,null,t,null,null,null,null
+863,"telefon: 343673511(pokój lekarzy), 343673509 (dyż.pielęgn.)  fax: 343673533 (pok.pielęgn.oddziałowej pn-pt 7:00-14:35); 343785251,343785253 (Izba Przyjęć) uwagi: 28 stanowisk dializacyjnych",28,0,107,59,null,null,null,null,t,null,null,null,null
+1012,telefon:   fax:  uwagi: Oddział Chorób Wewnętrznych z Ośrodkiem Intensywnej Opieki Kardiologicznej\r\nw tym 5 łóżek intensywnego nadzoru kardiologicznego,60,0,1,59,null,null,null,null,t,null,null,null,null
+1018,telefon:   fax:  uwagi: w tym 2 IOM,23,0,48,59,null,null,null,null,t,null,null,null,null
+318,telefon:   fax:  uwagi: ,33,0,1,60,null,null,null,null,t,null,null,null,null
+319,telefon:   fax:  uwagi: W tym 6 łóżek IOM,28,0,22,60,null,null,null,null,t,null,null,null,null
+320,"telefon: 323908211, centrala: 323908200   fax:  uwagi: w tym 8 łóżek IOM\r\nDializy - TAK",8,0,100,60,null,null,null,null,t,null,null,null,null
+321,telefon:   fax:  uwagi: w tym 1 łóżko IOM,30,0,40,60,null,null,null,null,t,null,null,null,null
+322,"telefon:   fax:  uwagi: 17 łóżek dla noworodków, 8 inkubatorów.",25,0,75,60,null,null,null,null,t,null,null,null,null
+323,telefon:   fax:  uwagi: ,48,0,42,60,null,null,null,null,t,null,null,null,null
+324,telefon:   fax:  uwagi: Oddział Chirurgii Ogólnej z Pododdziałem Chemioterapii,45,0,45,60,null,null,null,null,t,null,null,null,null
+325,telefon:   fax:  uwagi: ,15,0,59,60,null,null,null,null,t,null,null,null,null
+326,telefon:   fax:  uwagi: ,12,0,61,60,null,null,null,null,t,null,null,null,null
+327,telefon:   fax:  uwagi: ,13,0,64,60,null,null,null,null,t,null,null,null,null
+328,telefon:   fax:  uwagi: miejsca męskie - 30\r\nmiejsca żeńskie - 30,60,0,66,60,null,null,null,null,t,null,null,null,null
+820,telefon:   fax:  uwagi: ,4,0,192,60,null,null,null,null,t,null,null,null,null
+637,telefon: 32 3908231  fax:  uwagi: Stanowiska IT,2,0,72,60,null,null,null,null,t,null,null,null,null
+821,telefon:   fax:  uwagi: 4000- 2\r\n4220- 6\r\n4401- 1\r\n4500- 2,11,0,191,60,null,null,null,null,t,null,null,null,null
+329,telefon:   fax:  uwagi: W tym 1 łóżko IOM,46,0,1,62,null,null,null,null,t,null,null,null,null
+330,telefon:   fax:  uwagi: ,16,0,15,62,null,null,null,null,t,null,null,null,null
+331,telefon:   fax:  uwagi: 1 inkubator,17,0,40,62,null,null,null,null,t,null,null,null,null
+332,telefon:   fax:  uwagi: W tym 1 łóżko IOM,16,0,22,62,null,null,null,null,t,null,null,null,null
+333,telefon:   fax:  uwagi: ,28,0,75,62,null,null,null,null,t,null,null,null,null
+334,telefon:   fax:  uwagi: ,15,0,46,62,null,null,null,null,t,null,null,null,null
+335,"telefon: 338520511 w.603, 604  fax:  uwagi: Dializy - TAK",10,0,100,62,null,null,null,null,t,null,null,null,null
+336,telefon:   fax:  uwagi: ,12,0,59,62,null,null,null,null,t,null,null,null,null
+337,telefon:   fax:  uwagi: ,16,0,61,62,null,null,null,null,t,null,null,null,null
+338,telefon:   fax:  uwagi: ,58,0,42,62,null,null,null,null,t,null,null,null,null
+339,telefon:   fax:  uwagi: ,28,0,106,62,null,null,null,null,t,null,null,null,null
+340,telefon:   fax:  uwagi: ,18,0,64,62,null,null,null,null,t,null,null,null,null
+341,telefon:   fax:  uwagi: ,50,0,66,62,null,null,null,null,t,null,null,null,null
+342,telefon:   fax:  uwagi: ,33,0,31,62,null,null,null,null,t,null,null,null,null
+343,telefon:   fax:  uwagi: ,20,0,20,62,null,null,null,null,t,null,null,null,null
+344,telefon:   fax:  uwagi: ,19,0,111,62,null,null,null,null,t,null,null,null,null
+345,telefon:   fax:  uwagi: ,0,0,105,62,null,null,null,null,t,null,null,null,null
+346,telefon:   fax:  uwagi: ,15,0,8,62,null,null,null,null,t,null,null,null,null
+347,telefon:   fax:  uwagi: W tym 4 łóżka IOM,16,0,24,62,null,null,null,null,t,null,null,null,null
+349,telefon:   fax:  uwagi: ,40,0,45,62,null,null,null,null,t,null,null,null,null
+629,"telefon: Centrala: 33 8549200, 33 8520511; SOR (rejestracja przyjęć nagłych): wew. 706, 707; SOR (pielęgniarka oddzialowa): wew. 701; SOR (rejestracja wpisów i przyjęć planowych): wew. 702  fax:  uwagi: Stanowiska IT",2,0,72,62,null,null,null,null,t,null,null,null,null
+784,telefon:   fax:  uwagi: 4000- 1\r\n4220- 1\r\n4902- 2\r\n4222- 4,8,0,191,62,null,null,null,null,t,null,null,null,null
+786,"telefon: Centrala: 33 8549200, 33 8520511; SOR (rejestracja przyjęć nagłych): wew. 706, 707; SOR (pielęgniarka oddzialowa): wew. 701; SOR (rejestracja wpisów i przyjęć planowych): wew. 702  fax:  uwagi: ",4,0,192,62,null,null,null,null,t,null,null,null,null
+912,"telefon: 338520511 w.603, 604  fax:  uwagi: PIO - pełna izolacja oddechowa\r\n(3 miejsca w przypadku kohortowania pacjentów, po uzgodnieniu ze szpitalem tel. 33 854 92 00 lub 33 852 05 11 - przekierowanie na lekarza dyżurnego)",2,0,195,62,null,null,null,null,t,null,null,null,null
+1010,"telefon: 322213661; Izba Przyjęć wew. 30  fax: 322215236 uwagi: Oddział Chorób Płuc i Gruźlicy z Pododdziałem Gruźlicy, Pododdziałem Chemioterpaii i Szybkiej Diagnostyki\r\n",58,0,31,63,null,null,null,null,t,null,null,null,null
+403,telefon: 32 3938100  fax: 32 3938101 uwagi: Oddział wewnętrzny z intensywnym nadzorem kardiologicznym. W tym 1 stanowisko IT i 1 łóżko IOM.,30,0,1,71,null,null,null,null,t,null,null,null,null
+352,"telefon:   fax:  uwagi: Oddział Kardiochirirgii, Transplantacji Serca i Mechanicznego Wspomagania Krążenia - 33 łóżka\r\nOddział Kardiochirurgii, Transplantacji Serca i Płuc oraz Mechanicznego Wspomagania Krążenia - 41 w tym 14 OIOM (rozpoczęcie działalności z dniem 01.07.2015r.)\r\nOddział Chirurgii Serca i Naczyń Dorosłych i Dzieci - 46 łóżek - Zakończenie działalności z dniem 13.07.2015\r\n\r\n",70,0,53,64,null,null,null,null,t,null,null,null,null
+353,"telefon: 324793403  fax:  uwagi: Oddział Transplantacyjny z Pododdziałem Mukowiscydozy, Pododdziałem Chirurgii Klatki Piersiowej i Pododdziałem Chorób Płuc - 33 łóżka w tym 6 OIOM (ropoczęcie działalności 01.07.2015 r.)\r\nOddział Transplanatacyjny - 9 łóżek (zakończenie działalności z dniem 13.07.2015 r.) \r\n",33,0,164,64,null,null,null,null,t,null,null,null,null
+354,telefon:   fax:  uwagi: I Oddział Kardiologii i Angiologii - 38\r\n\r\nOddział Chorób Serca i Naczyń - 26,64,0,10,64,null,null,null,null,t,null,null,null,null
+355,telefon:   fax:  uwagi: Oddział Intensywnej Opieki Kardiologicznej - R - 12\r\n\r\nOddział Intensywnej Opieki Kardiologicznej Dziecięcej - 10\r\n\r\nOddział Intensywnej Opieki Kardiologicznej i Ciężkiej Niewydolności Krążeniowo-Oddechowej - 10,32,0,14,64,null,null,null,null,t,null,null,null,null
+719,telefon:   fax:  uwagi: 3 inkubatory.,10,0,193,64,null,null,null,null,t,null,null,null,null
+356,telefon:   fax:  uwagi: Oddział Wrodzonych Wad Serca i Kardiologii Dziecięcej,16,0,13,64,null,null,null,null,t,null,null,null,null
+357,"telefon: 323733841, 323733842, 323733843  fax:  uwagi: w tym 25 łóżek OIOM",25,0,100,64,null,null,null,null,t,null,null,null,null
+360,telefon: 323733880; 323733809  fax:  uwagi: Oddział Chirurgii Naczyniowej i Endowaskularnej,4,0,48,64,null,null,null,null,t,null,null,null,null
+711,telefon:   fax:  uwagi: ,57,0,191,64,null,null,null,null,t,null,null,null,null
+913,telefon:   fax:  uwagi: ,2,0,101,64,null,null,null,null,t,null,null,null,null
+927,"telefon:   fax:  uwagi: W tym 5 łóżek IOM, 5 inkubatorów.",15,0,54,64,null,null,null,null,t,null,null,null,null
+361,telefon: 32 3581227  fax: 32 2518437 uwagi: Oddział Okulistyki Dorosłych,107,0,59,65,null,null,null,null,t,null,null,null,null
+362,telefon: 32 3581326  fax: 32 2518437 uwagi: Oddział Okulistyki Dzicięcej,26,0,60,65,null,null,null,null,t,null,null,null,null
+669,telefon:   fax:  uwagi: ,1,0,191,65,null,null,null,null,t,null,null,null,null
+1020,telefon: 32 3581 357  fax:  uwagi: w tym 4 łóżka IOM,36,0,110,65,null,null,null,null,t,null,null,null,null
+879,telefon: 32 3581366  fax: 32 2518437 uwagi: Oddział Endokrynologii i Nowotworów Neuroendokrynnych,25,0,5,65,null,null,null,null,t,null,null,null,null
+1076,telefon:   fax:  uwagi: w tym 2 łóżka IOM,21,0,49,65,null,null,null,null,t,null,null,null,null
+366,telefon: 32 3598134  fax: brak uwagi: Oddział Anestezjologii i Intensywnej Terapii - \r\nw tym 10 łóżek IT,10,0,100,66,null,null,null,null,t,null,null,null,null
+368,"telefon: 32 3598198  fax: 32 2029577 uwagi: Oddział Chirurgii Ogólnej, Naczyń, Angiologii i Flebologii\r\nW tym 6 łóżek IOM",59,0,48,66,null,null,null,null,t,null,null,null,null
+369,telefon: 32 3598290  fax: 32 2029933 uwagi: Oddział Chorób Wewnętrznych i Reumatologii,37,0,33,66,null,null,null,null,t,null,null,null,null
+370,telefon: 32 3598297  fax: 32 2523593 uwagi: Oddział Chorób Wewnętrznych i Metabolicznych,36,0,1,66,null,null,null,null,t,null,null,null,null
+371,telefon: 32 3598239  fax: 32 2059483 uwagi: Oddział Geriatrii,16,0,8,66,null,null,null,null,t,null,null,null,null
+372,telefon: 32 3598306  fax: 32 2029592 uwagi: Oddział Neurologii\r\nw tym 2 łóżka IOM,28,0,22,66,null,null,null,null,t,null,null,null,null
+373,telefon: 323598306  fax: 322029592 uwagi: Pododdział Udarowy Oddziału Neurologii\r\nw tym 4 łóżka IOM,16,0,24,66,null,null,null,null,t,null,null,null,null
+374,telefon: 32 3598270  fax: 32 2029932 uwagi: Oddział Ortopedii i Traumatologii Narządu Ruchu,40,0,106,66,null,null,null,null,t,null,null,null,null
+377,telefon: 32 3598107  fax: brak uwagi: Oddział Laryngologii i Onkologii Laryngologicznej\r\n,18,0,61,66,null,null,null,null,t,null,null,null,null
+378,telefon: 32 3598011  fax: 32 2059260 uwagi: Oddział Psychiatrii i Psychoterapii,30,0,66,66,null,null,null,null,t,null,null,null,null
+671,"telefon:   fax:  uwagi: 6 łóżek kod 4530, 2 łóżka kod 4220, 4 łóżka kod 4222, , 3 łóżka kod 4570, 2 łóżka kod 4610, 2 łóżka kod 4580.",19,0,191,66,null,null,null,null,t,null,null,null,null
+1050,"telefon:   fax:  uwagi: 10 stanowisk kod 4260, 1 stanowisko IT kod 4902",11,0,189,66,null,null,null,null,t,null,null,null,null
+860,telefon: 32 3598944  fax: 32 3598944 uwagi: Oddział Neurochirurgii\r\nw tym 3 łóżka IOM,15,0,55,66,null,null,null,null,t,null,null,null,null
+1019,telefon: 324796101  fax:  uwagi: w tym 4-łóżkowa sala nieinwazyjnej wentylacji mechanicznej,21,0,133,66,null,null,null,null,t,null,null,null,null
+1032,telefon: 324796010  fax: 324796011 uwagi: Uruchomienie SOR w dn. 12.11.2018 r.,4,0,192,66,null,null,null,null,t,null,null,null,null
+1033,telefon: 324796010  fax: 324796011 uwagi: w tym 1 stanowisko IT,5,0,72,66,null,null,null,null,t,null,null,null,null
+380,telefon: 32 46 13 201  fax: 324613220 uwagi: Oddział Chorób Wewnętrznych z Pododdziałem Nefrologicznym.\r\n,37,0,1,68,null,null,null,null,t,null,null,null,null
+381,"telefon: 32 46 13 201  fax: 324613220 uwagi: Oddział Kardiologiczny z Pododdziałem Intensywnego Nadzoru Kardiologicznego, w tym 6 łóżek INK.",25,0,10,68,null,null,null,null,t,null,null,null,null
+382,telefon: 32 46 13 201  fax: 324613220 uwagi: Oddział Chirurgii Dzięcięcej,15,0,46,68,null,null,null,null,t,null,null,null,null
+383,"telefon: 324613201  fax: 324613220 uwagi: Oddział Chirurgii Ogólnej z Pododdziałem Chirurgii Naczyń, ",50,0,45,68,null,null,null,null,t,null,null,null,null
+384,"telefon: 32 46 13 201  fax: 324613220 uwagi: Oddział Chirurgii Urazowo-Ortopedycznej z Pododdziałem Dziecięcym, ",35,0,106,68,null,null,null,null,t,null,null,null,null
+385,telefon: 324613201  fax: 324613220 uwagi: ,19,0,64,68,null,null,null,null,t,null,null,null,null
+386,telefon: 324613201  fax: 324613220 uwagi: Oddział Pediatryczny z Pododdziałem Niemowlęcym,25,0,40,68,null,null,null,null,t,null,null,null,null
+387,telefon: 324613201  fax: 324613220 uwagi: w tym 3 stanowiska OIOM,3,0,101,68,null,null,null,null,t,null,null,null,null
+1068,telefon: 32 46 13 253  fax:  uwagi: ,12,0,202,68,null,null,null,null,t,null,null,null,null
+701,telefon:   fax:  uwagi: 3 łóżka kod 4261\r\n,3,0,191,68,null,null,null,null,t,null,null,null,null
+388,"telefon: 323463642  fax: 322414733 uwagi: Oddział Obserwacyjno-Zakaźny, Hepatologii Zakaźnej i Nabytych Niedoborów Odporności Kliniczny\r\nW tym 1 łóżko IOM.",40,0,111,69,null,null,null,null,t,null,null,null,null
+390,telefon: 323463677  fax: 322414733 uwagi: ,14,0,105,69,null,null,null,null,t,null,null,null,null
+391,"telefon: 323463661  fax: 322414733 uwagi: Oddział Pulmonologii i Nowotworów Płuc z Pododdziałem Ftyzjopneumonologii; 50 łóżek, w tym 1 łóżko IOM.\r\nNależy każdorazowo kontaktować się z oddziałem w sprawie przyjęcia pacjenta.",50,0,31,69,null,null,null,null,t,null,null,null,null
+759,"telefon:   fax:  uwagi: 1 łóżko kod 4348, 1 łóżko kod 4270.",2,0,191,69,null,null,null,null,t,null,null,null,null
+392,"telefon: 32 2673011 wew. 215  fax: 32 2677355 uwagi: Oddział Chorób Wewnętrznych I - 58, w tym IOM - 4 \r\n\r\n\r\n",58,0,1,70,null,null,null,null,t,null,null,null,null
+394,telefon: 32 2673011 wew. 149  fax: 32 2677355 uwagi: 50 łóżek,50,0,42,70,null,null,null,null,t,null,null,null,null
+395,telefon: 32 2673011 wew. 365  fax: 32 2677355 uwagi: 13 łóżeczek i 4 inkubatory,13,0,75,70,null,null,null,null,t,null,null,null,null
+404,telefon: 32 3938100  fax: 32 3938101 uwagi: W tym 1 łóżko IOM.,30,0,45,71,null,null,null,null,t,null,null,null,null
+405,telefon: 32 3938100  fax: 32 3938101 uwagi: Oddział ginekologiczno-położniczy z blokiem porodowym. W tym 1 łóżko IOM.,30,0,42,71,null,null,null,null,t,null,null,null,null
+406,telefon: 32 3938100  fax: 32 3938101 uwagi: 18 łóżeczek + 5 inkubatorów,18,0,75,71,null,null,null,null,t,null,null,null,null
+407,telefon: 32 3938100  fax: 32 3938101 uwagi: W tym 2 łóżka IOM.,20,0,8,71,null,null,null,null,t,null,null,null,null
+780,telefon:   fax:  uwagi: 1 łóżko - oddz. 4000 ; 1 łóżko - oddz. 4500 ;\r\n1 łóżko - oddz. 4450 ; 1 łóżko - oddz. 4060,4,0,191,71,null,null,null,null,t,null,null,null,null
+408,"telefon: 343172861 wew. 175  fax: brak uwagi: Oddział Chorób Wewnętrznych - 50\r\nw tym 2 łóżka IOM, 2 IT\r\n",50,0,1,72,null,null,null,null,t,null,null,null,null
+409,"telefon: 343172861 wew.181  fax: brak uwagi: w tym 2 łóżka IOM, 2 łóżka dla noworodków, \r\n2 inkubatory",20,0,40,72,null,null,null,null,t,null,null,null,null
+845,"telefon:   fax:  uwagi: 2 łóżka kod 4000, 2 łóżka kod 4401.",4,0,191,72,null,null,null,null,t,null,null,null,null
+1075,telefon:   fax:  uwagi: Gastroenterologia i Hepatologia,45,0,6,74,null,null,null,null,t,null,null,null,null
+674,telefon:   fax:  uwagi: ,22,0,191,74,null,null,null,null,t,null,null,null,null
+419,"telefon: 32 7894301, 32 7894340  fax: 32 7894302, 32 7894343 uwagi: Oddział Chorób Wewnętrznych, Autoimmunologicznych i Metabolicznych - 32\r\n\r\nOddział Chorób Wewnętrznych i Farmakologii Klinicznej - 23",55,0,1,74,null,null,null,null,t,null,null,null,null
+421,"telefon: 32 7894701  fax: 32 7894701 uwagi: Oddział Ginekologii i Położnictwa - 30, w tym 2 łóżka IOM\r\n\r\n",60,0,42,74,null,null,null,null,t,null,null,null,null
+422,"telefon: 32 7894451  fax: brak uwagi: 5 noworodkowych, 7 inkubatorów,4 ł.intensywnej terapii noworodka, 4 ł. opieki ciągłej dla noworodków po sztucznej wentylacji, 7 ł. opieki pośredniej dla noworodków nie wymagających wsparcia oddechowego",27,0,75,74,null,null,null,null,t,null,null,null,null
+423,telefon: 32 7894601  fax: 32 2525955 uwagi: Oddział Neurologiczny z Pododdziałem Udarowym\r\n- w tym 2 łóżka IOM.,47,0,22,74,null,null,null,null,t,null,null,null,null
+424,"telefon: 327894201, 327894202, 327894216  fax: 322525955 uwagi: w tym: 10 łóżek IT",10,0,100,74,null,null,null,null,t,null,null,null,null
+425,telefon: 32 7894501  fax: 32 7894506 uwagi: w tym 2 łóżka IOM,47,0,55,74,null,null,null,null,t,null,null,null,null
+426,telefon: 32 7894251  fax: brak uwagi: Oddział Chirurgii Przewodu Pokarmowego,47,0,45,74,null,null,null,null,t,null,null,null,null
+1074,telefon:   fax:  uwagi: Oddział Endokrynologii Ginekologicznej,18,0,5,74,null,null,null,null,t,null,null,null,null
+428,"telefon: 32 459 1883 (lek.), 32 4591884 (piel.), 32 4591882 (sek.)  fax: 32 4591777 uwagi: Oddział Neurologiczny z Pododdziałem Udarowym - 28",28,0,22,75,null,null,null,null,t,null,null,null,null
+430,"telefon: 32 459 1883 (lek.), 32 4591884 (piel.), 32 4591882 (sek.)  fax: 32 4591777 uwagi: ",16,0,24,75,null,null,null,null,t,null,null,null,null
+431,"telefon: 32 4591853 (lek.), 32 4591854 (piel.), 32 4591857 (sek.)  fax: 32 4591777 uwagi: ul. 26 Marca 51 44-300 Wodzisław Śl.:\r\nOddział Chorób Wewnętrznych - 30\r\n",30,0,1,75,null,null,null,null,t,null,null,null,null
+432,telefon: 32 459198332 (lek.) 32 4591984/85 (piel.) 32 4591982 (sek.)  fax: 32 4591777 uwagi: ul. 26 Marca 51 44-300 Wodzisław Śl.:\r\nOddział Chirurgiczny Ogólny - 47\r\n\r\n,37,0,45,75,null,null,null,null,t,null,null,null,null
+433,telefon: 32 4591951 (lek.) 32 4591954 (piel.) 32 4591955 (sek.)  fax: 32 4591777 uwagi: ul. 26 Marca 51 44-300 Wodzisław Śl.:\r\nOddział Chirurgii Urazowo-Ortopedycznej - 27\r\n\r\n,24,0,106,75,null,null,null,null,t,null,null,null,null
+434,"telefon: 32 4591991 (lek.), 32 4591994 (piel.), 32 4591992 (sek.)  fax: 324591777 uwagi: ul. 26 Marca 51 44-300 Wodzisław Śl.:\r\nOddział Anestezjologii i Intensywnej Terapii -\r\n7 stanowisk IT\r\n\r\n",7,0,100,75,null,null,null,null,t,null,null,null,null
+435,"telefon: 32 4591963 (lek.), 32 4591964/62 (piel.), 32 4591965 (sek.)  fax: 32 4591777 uwagi: ul. 26 Marca 51 44-300 Wodzisław Śl.;\r\nOddział Ginekologiczno-Położniczy - 44\r\n",30,0,42,75,null,null,null,null,t,null,null,null,null
+471,"telefon: lek. 32 7643030 wew. 106, 206; piel. 32 7643030 wew. 102, 201  fax: 32 7643030 uwagi: ",29,0,10,80,null,null,null,null,t,null,null,null,null
+437,"telefon: 32 4591883 (lek.), 32 4591974 (piel.), 32 4591972 (sek.)  fax: 32 4591777 uwagi: ul. 26 Marca 51 44-300 Wodzisław Śl.;\r\nOddział Neonatologiczny - 18\r\n",12,0,75,75,null,null,null,null,t,null,null,null,null
+789,telefon:   fax:  uwagi: Oddział 4000 - 2 łóżko\r\nOddział 4220 - 2 łóżka\r\nOddział 4421 - 2 łóżka\r\nOddział 4450 - 2 łóżka,8,0,191,75,null,null,null,null,t,null,null,null,null
+1064,telefon:   fax:  uwagi: Oddział Chorób Wewnętrznych z Pododdziałem Geriatrycznym - 45 łóżek,45,0,201,75,null,null,null,null,t,null,null,null,null
+438,telefon: 32 3704441  fax: 32 3704417 uwagi: ,17,0,15,76,null,null,null,null,t,null,null,null,null
+439,telefon:   fax:  uwagi: ,8,0,107,76,null,null,null,null,t,null,null,null,null
+440,"telefon: 32 3704425, Izba Przyjęć: 32 3704450    fax: 32 3704417 uwagi: Oddział Chorób Wewnętrznych i Diabetologii",20,0,1,76,null,null,null,null,t,null,null,null,null
+442,"telefon: 32 3704416  fax: 32 3704475 uwagi: Oddział Torakochirurgiczny, w tym 3 łóżka IOM.",30,0,47,76,null,null,null,null,t,null,null,null,null
+443,telefon: 32 3704440  fax: 32 3704453 uwagi: W tym 2 łóżka IOM.,20,0,64,76,null,null,null,null,t,null,null,null,null
+444,telefon: 32 3704284; 32 3704583  fax: 32 3704292 uwagi: W tym 2 łóżka IOM.,12,0,22,76,null,null,null,null,t,null,null,null,null
+445,"telefon: 323704227, 323704228  fax: 32 3704238 uwagi: 7 stanowisk IT. \r\nDializy - TAK",7,0,100,76,null,null,null,null,t,null,null,null,null
+446,"telefon: 32 3704373  fax: 32 3704379 uwagi: Oddział Hematologii i Onkologii, w tym 3 łóżka IOM",25,0,155,76,null,null,null,null,t,null,null,null,null
+850,telefon:   fax:  uwagi: ,1,0,191,91,null,null,null,null,t,null,null,null,null
+447,"telefon: noworodki: 323704350, dzieci: 323704285  fax: OIT Dziecięcej - 32 3704278 uwagi: Oddział Intensywnej Terapii Dziecięcej - 9,  w tym 4 łóżka noworodki, 5 inkubatorów\r\nOddział Intensywnej Terapii Noworodka - 10, w tym 10 inkubatorów\r\n(stanowiska IT: 9+10)",19,0,101,76,null,null,null,null,t,null,null,null,null
+448,telefon: 32 3704267  fax: 32 3704292 uwagi: Oddział Gastroenterologii i Hepatologii Dzieci,18,0,7,76,null,null,null,null,t,null,null,null,null
+450,telefon:   fax:  uwagi: Pododdział Dializoterapii Dzieci,3,0,183,76,null,null,null,null,t,null,null,null,null
+451,telefon: 32 3704344  fax: 32 3704292 uwagi: ,20,0,40,76,null,null,null,null,t,null,null,null,null
+713,"telefon:   fax:  uwagi: 2 łózka kod 4500, 3 łóżka kod 4520, 2 łóżka kod 4640, 2 łóżka kod 4220, 4 łóżka kod 4501, 3 łóżka kod 4071, 4 łóżka kod 4222, 2 łóżka kod 4310",22,0,191,76,null,null,null,null,t,null,null,null,null
+870,"telefon: 32 3704356  fax: 32 3704354 uwagi: Oddział Chirurgii Wad Rozwojowych Dzieci i Traumatologii, w tym 4 łóżka IOM",20,0,46,76,null,null,null,null,t,null,null,null,null
+872,telefon: 32 3704587  fax: 32 3704597 uwagi: W tym 4 łóżka IOM.,16,0,24,76,null,null,null,null,t,null,null,null,null
+874,"telefon: 32 3704291  fax: 32 3704466 uwagi: Oddział Patologii Noworodka, w tym 4 stanowiska IT.",24,0,75,76,null,null,null,null,t,null,null,null,null
+875,"telefon: 32 3732225  fax: 32 3745664 uwagi: Zabrze, ul. Koziołka 1.\r\nW tym 2 łóżka IOM.",60,0,133,76,null,null,null,null,t,null,null,null,null
+452,"telefon: Od. Wew.I:323499180, Od. Wew. z Podod. Geriat.: 323499706  fax: 32 2413952 uwagi: ul. Strzelców Bytomskich 11  41-500 Chorzów\r\nOddział Chorób Wewnętrznych - 59 (w tym 3 łóżka IOM)\r\n\r\nul. Karola Miarki 40, 41-500 Chorzów\r\nOddział Chorób Wewnętrznych z Pododdziałem Geriatrycznym - 50 ( w tym 4 łóżka IOM).\r\n",109,0,1,77,null,null,null,null,t,null,null,null,null
+453,telefon: 32 3499156  fax: 32 2413952 uwagi: W tym 6 stanowisk IT.\r\nDializy - TAK,10,0,100,77,null,null,null,null,t,null,null,null,null
+454,telefon: 323499160  fax: 32 2413952 uwagi: w tym 2 IOM,36,0,45,77,null,null,null,null,t,null,null,null,null
+455,telefon: 323499171  fax: 32 2413952 uwagi: w tym 2 IOM,34,0,106,77,null,null,null,null,t,null,null,null,null
+456,telefon: 323499166  fax: 32 2413952 uwagi: ,10,0,20,77,null,null,null,null,t,null,null,null,null
+457,telefon: 323499161  fax: 32 2413952 uwagi: Oddział Endokrynologiczno - Diebetologiczny,10,0,5,77,null,null,null,null,t,null,null,null,null
+458,telefon: 323499188  fax: 32 2413952 uwagi: w tym 2 łóżka IOM,12,0,22,77,null,null,null,null,t,null,null,null,null
+460,telefon: 32 3499161  fax: 32 2413952 uwagi: ,10,0,59,77,null,null,null,null,t,null,null,null,null
+461,telefon: 323499734  fax: 32 2413952 uwagi: przy ul. Karola Miarki 40 w Chorzowie\r\nw tym 3 łóżka IOM.,39,0,9,77,null,null,null,null,t,null,null,null,null
+757,"telefon:   fax:  uwagi: 7 łóżek kod 4000, 2 łóżka kod 4500, 2 łóżka kod 4580, 3 łóżka kod 4070, 4 łóżka kod 4222, 2 łóżka kod 4220.",20,0,191,77,null,null,null,null,t,null,null,null,null
+878,telefon: 323499188  fax: 32 2413952 uwagi: w 4 łóżka IOM,16,0,24,77,null,null,null,null,t,null,null,null,null
+462,"telefon:   fax:  uwagi: Oddział Chirurgii Onkologicznej i Ogólnej wraz z odcinkiem chirurgii krótkoterminowej - ul. Wyzwolenia 18, 43-300 Bielsko-Biała",58,0,49,78,null,null,null,null,t,null,null,null,null
+463,"telefon: ul. Wyzwolenia: 334984050 (lek.), 334984030 (piel.); ul. Wyspiańskiego: 338157457, 338272554 (lek.), 338272555 (piel.)  fax:  uwagi: ul. Wyzwolenia 18 43-300 Bielsko-Biała\r\nOddział Anestezjologii i Intensywnej Terapii - 4 łóżka\r\n\r\nul. Wyspiańskiego 21 43-300 Bielsko-Biała\r\nOddział Anestezjologii i Intensywnej Terapii - 6 łóżek",10,0,100,78,null,null,null,null,t,null,null,null,null
+464,"telefon: 33 8272500  fax:  uwagi: Oddział chirurgii ogólnej i onkologicznej - ul Wyspiańskiego 21, 43-300 Bielsko-Biała",46,0,45,78,null,null,null,null,t,null,null,null,null
+465,"telefon: 33 8272500  fax:  uwagi: Ul. Wyspiańskiego 21, 43-300 Bielsko-Biała",43,0,42,78,null,null,null,null,t,null,null,null,null
+466,"telefon: 33 8272500  fax:  uwagi: Oddział koardilogii i kardioonkologii - ul. Wyspiańskiego 21, 43-300 Bielsko-Biała. W tym 4 łóżka intensywnego nadzoru kardilogicznego.",33,0,10,78,null,null,null,null,t,null,null,null,null
+467,"telefon: 33 8272500  fax:  uwagi: Ul. Wyspiańskiego 21, 43-300 Bielsko-Biała\r\nw tym 20 łóżek intensywnego nadzoru, 7 inkubatorów",27,0,75,78,null,null,null,null,t,null,null,null,null
+728,telefon:   fax:  uwagi: ,9,0,191,78,null,null,null,null,t,null,null,null,null
+915,"telefon:   fax:  uwagi: Oddział gastroenterologiczny z pododdziałem chorób wewnętrznych - ul. Wyspiańskiego 21, 43-300 Bielsko-Biała.\r\nW tym 2 łóżka IOM.",33,0,6,78,null,null,null,null,t,null,null,null,null
+470,"telefon: poziom 0: 32 2279826 wew. 108; poziom IV: 32 2279826 wew. 207  fax: 32 2279826 uwagi: Oddział Kardiologii Inwazyjnej Zabiegowej, w tym 1 IOM",23,0,10,79,null,null,null,null,t,null,null,null,null
+1017,telefon:   fax:  uwagi: Oddział intensywnej opieki kardiologicznej,10,0,14,79,null,null,null,null,t,null,null,null,null
+745,telefon:   fax:  uwagi: ,1,0,191,79,null,null,null,null,t,null,null,null,null
+752,telefon:   fax:  uwagi: ,1,0,191,80,null,null,null,null,t,null,null,null,null
+473,telefon: 33 8289390 wew. 300  fax: 33 8289393 uwagi: ,12,0,10,81,null,null,null,null,t,null,null,null,null
+475,telefon: 33 8289390 wew. 200  fax: 33 8289393 uwagi: łóżka IOM - 2,14,0,53,81,null,null,null,null,t,null,null,null,null
+730,telefon:   fax:  uwagi: ,1,0,191,81,null,null,null,null,t,null,null,null,null
+477,telefon: piel. 33 8545663 wew. 112; lek. 33 8545663 wew. 113  fax: 33 8545663 uwagi: Oddział kardiologiczny - 6\r\nOddział kardiologiczny B - 14,20,0,10,82,null,null,null,null,t,null,null,null,null
+478,telefon: piel. 33 8545663 wew. 120; lek. 33 8545663 wew. 121  fax: 33 8545663 uwagi: ,2,0,48,82,null,null,null,null,t,null,null,null,null
+787,telefon:   fax:  uwagi: ,1,0,191,82,null,null,null,null,t,null,null,null,null
+479,telefon: 32 2224400  fax: 32 2221609 uwagi: W tym 2 łóżka IOM.,38,0,1,83,null,null,null,null,t,null,null,null,null
+480,telefon: 32 2224400  fax: 32 2221609 uwagi: ,18,0,20,83,null,null,null,null,t,null,null,null,null
+481,"telefon: 32 2224400  fax: 32 2221609 uwagi: Oddział Noworodków i Wcześniaków, w tym 4 inkubatory",15,0,75,83,null,null,null,null,t,null,null,null,null
+482,telefon: 32 2224400  fax: 32 2221609 uwagi: W tym 2 łóżka IOM.,38,0,42,83,null,null,null,null,t,null,null,null,null
+770,"telefon:   fax:  uwagi: 2 IOM - kod 4000, 2 IOM - kod 4450",4,0,191,83,null,null,null,null,t,null,null,null,null
+483,telefon: 327827211  fax: 327827300 uwagi: ,27,0,45,84,null,null,null,null,t,null,null,null,null
+484,telefon: 327827222  fax: 327827300 uwagi: Oddział Nefrologii ze Stacją Dializ,10,0,15,84,null,null,null,null,t,null,null,null,null
+485,"telefon: 327827266  fax: 327827300 uwagi: Oddział Chorób Wewnętrznych\r\nul. Głowackiego 10, 40-052 Katowice \r\n49 łóżek\r\n\r\n\r\n\r\n\r\n",49,0,1,84,null,null,null,null,t,null,null,null,null
+686,telefon:   fax:  uwagi: ,1,0,191,84,null,null,null,null,t,null,null,null,null
+1057,telefon:   fax:  uwagi: ,0,0,42,84,null,null,null,null,t,null,null,null,null
+959,telefon: 32 7827330  fax: 32 7827329 uwagi: ,3,0,198,84,null,null,null,null,t,null,null,null,null
+1035,telefon: 323412510  fax: 327827300 uwagi: ,6,0,100,84,null,null,null,null,t,null,null,null,null
+486,"telefon: ul. Bony 1/3: 343702236, ul. Mickiewicza 12: 343702382  fax: brak uwagi: ul. Mirowska 15 42-200 Częstochowa \r\nOddział Chorób Wewnętrznych - 61 (w tym 4 łózka IOM)\r\n\r\nul. Mickiewicza 12 42-200 Częstochowa\r\nOddział Chorób Wewnętrznych - 51 (w tym 2 łóżka IOM, 3 łóżka intensywnego nadzoru kardiologicznego)",112,0,1,85,null,null,null,null,t,null,null,null,null
+487,telefon: 343702223  fax: brak uwagi: w tym 2 łóżka IOM,46,0,45,85,null,null,null,null,t,null,null,null,null
+488,telefon: 343702202  fax: brak uwagi: w tym 2 łóżka IOM,30,0,106,85,null,null,null,null,t,null,null,null,null
+489,telefon: 343702175  fax: brak uwagi: w tym 2 łóżka IOM,20,0,64,85,null,null,null,null,t,null,null,null,null
+490,"telefon: 343702246, 343702251(lek.)  fax: brak uwagi: Dializy - TAK",8,0,100,85,null,null,null,null,t,null,null,null,null
+491,telefon: 343702312  fax: brak uwagi: w tym 3 łóżka IOM,21,0,22,85,null,null,null,null,t,null,null,null,null
+492,telefon: 34 3702312  fax: brak uwagi: w tym 8 łóżek IOM,16,0,24,85,null,null,null,null,t,null,null,null,null
+652,telefon: 343702263  fax: brak uwagi: w tym 2 łóżka IOM,53,0,31,85,null,null,null,null,t,null,null,null,null
+494,telefon: 343702372  fax: brak uwagi: ul. Mickiewicza 12\r\nw tym 2 łóżka IOM,31,0,42,85,null,null,null,null,t,null,null,null,null
+495,"telefon: 343702402  fax: brak uwagi: ul. Mickiewicza 12\r\n15 łóżek dla noworodków, 5 inkubatorów.",16,0,75,85,null,null,null,null,t,null,null,null,null
+496,telefon: 343702564  fax: brak uwagi: ul. Bony 1/3\r\nW tym 2 łóżka IOM\r\n,26,0,40,85,null,null,null,null,t,null,null,null,null
+497,telefon: 343702633  fax: brak uwagi: ul. Bony 1/3,18,0,20,85,null,null,null,null,t,null,null,null,null
+498,telefon: 343702592  fax: brak uwagi: ul. Bony 1/3\r\nw tym 2 łóżka IOM,40,0,8,85,null,null,null,null,t,null,null,null,null
+499,telefon: 343702665  fax: brak uwagi: ul. Bony 1/3,0,0,105,85,null,null,null,null,t,null,null,null,null
+631,"telefon: 34 3702270, 34 3702168, 34 3702170  fax: 34 3702168 uwagi: ",4,0,72,85,null,null,null,null,t,null,null,null,null
+651,"telefon: 34 3702270, 34 3702168, 34 3702170  fax: 34 3702168 uwagi: ",4,0,192,85,null,null,null,null,t,null,null,null,null
+653,"telefon:   fax:  uwagi: 6 łóżek kod 4000 (4 na ul. Bony, 2 na ul. Mickiewicza),\r\n2 łóżka kod 4500\r\n2 łóżka kod 4580\r\n2 łóżka kod 4640\r\n2 łóżka kod 4450\r\n3 łóżka kod 4420\r\n2 łóżka kod 4401\r\n2 łóżka kod 4270\r\n2 łózka kod 4060",23,0,191,85,null,null,null,null,t,null,null,null,null
+500,telefon: 326041759  fax:  uwagi: ,19,0,45,86,null,null,null,null,t,null,null,null,null
+501,telefon: 326041725  fax:  uwagi: ,35,0,1,86,null,null,null,null,t,null,null,null,null
+680,telefon:   fax:  uwagi: ,1,0,191,86,null,null,null,null,t,null,null,null,null
+957,"telefon: 32 6041700, 6041799, 6041708  fax: 32 6041780 uwagi: ",1,0,198,86,null,null,null,null,t,null,null,null,null
+502,telefon: 32 6053582  fax: 326053508 uwagi: ,26,0,1,87,null,null,null,null,t,null,null,null,null
+503,telefon: 32 6053561  fax: 326053508 uwagi: Oddział Chirurgii Ogólnej z Pododdziałem Chirurgii Metabolicznej i Bariatrycznej. W tym 2 łóżka IOM.,28,0,45,87,null,null,null,null,t,null,null,null,null
+504,telefon: 32 6053569  fax: 326053508 uwagi: W tym 2 łóżka IOM.,19,0,42,87,null,null,null,null,t,null,null,null,null
+505,telefon: 32 6053573  fax: 32 6053508 uwagi: 15 łóżek dla noworodków + 4 inkubatory,19,0,75,87,null,null,null,null,t,null,null,null,null
+506,telefon: 32 6053591  fax: 32 6053508 uwagi: W tym 2 łóżka IOM.,27,0,59,87,null,null,null,null,t,null,null,null,null
+507,telefon: 32 6053591  fax: 32 6053508 uwagi: W tym 2 łóżka IOM.\r\nPododdział okulistyki dziecięcej,5,0,60,87,null,null,null,null,t,null,null,null,null
+682,"telefon:   fax:  uwagi: 2 IOM - kod 4500, 2 IOM - kod 4450, 2 IOM - kod 4600, 1 IOm - kod 4220, 2 IOM - kod 4601",9,0,191,87,null,null,null,null,t,null,null,null,null
+955,telefon: 32 6053501 lub 32 6053508  fax:  uwagi: ,6,0,198,87,null,null,null,null,t,null,null,null,null
+509,"telefon:   fax:  uwagi: 41-219 Sosnowiec, ul. Szpitalna 1\r\nOddział Chorób Wewnętrznych I - 30, w tym 2 IOM\r\nOddział Chorób Wewnętrznych III - 30, w tym 2 IOM, 1 IT\r\n\r\nul. Zegadłowicza 3 41-200 Sosnowiec\r\nOddział Chorób Wewnętrznych II  - 28, w tym 3 IOM\r\n\r\n41-219 Sosnowiec, ul. Szpitalna 1\r\nOddział Chorób Wewnętrznych III z Pododdziałem Geriatrycznym - 40, w tym 3 IOM",88,0,1,88,null,null,null,null,t,null,null,null,null
+510,"telefon:   fax:  uwagi: Oddział Chirurgii Ogólnej z Otolaryngologią, ul. Zegadłowicza 3, Sosnowiec\r\nw tym 2 IOM",45,0,45,88,null,null,null,null,t,null,null,null,null
+511,telefon:   fax:  uwagi: ul. Zegadłowicza 3\r\nw tym 2 IOM,9,0,61,88,null,null,null,null,t,null,null,null,null
+512,telefon:   fax:  uwagi: ul. Zegadłowicza 3\r\nw tym 2 IOM,20,0,64,88,null,null,null,null,t,null,null,null,null
+513,telefon:   fax:  uwagi: ul. Zegadłowicza 3,40,0,91,88,null,null,null,null,t,null,null,null,null
+514,"telefon:   fax:  uwagi: Oddział ChUO I  - 32 łóżka, w tym 2 IOM.\r\nOddział ChUO II - 6 łóżek.",38,0,106,88,null,null,null,null,t,null,null,null,null
+515,telefon:   fax:  uwagi: ul. Zegadłowicza 3,37,0,66,88,null,null,null,null,t,null,null,null,null
+517,telefon:   fax:  uwagi: ul. Zegadłowicza 3\r\nw tym 2 IOM,79,0,42,88,null,null,null,null,t,null,null,null,null
+518,"telefon:   fax:  uwagi: w tym 25 łóżek dla noworodków, 6 inkubatorów, \r\n2 łóżka IOM\r\nOddział Noworodków i Wcześniaków. Ul.  Zegadłowicza 3\r\n",33,0,75,88,null,null,null,null,t,null,null,null,null
+519,telefon:   fax:  uwagi: w tym 2 IOM,55,0,22,88,null,null,null,null,t,null,null,null,null
+520,telefon:   fax:  uwagi: Oddział Skórno-Wenerologiczny,14,0,20,88,null,null,null,null,t,null,null,null,null
+521,telefon:   fax:  uwagi: w tym 4 IOM,16,0,24,88,null,null,null,null,t,null,null,null,null
+522,telefon:   fax:  uwagi: ,16,0,8,88,null,null,null,null,t,null,null,null,null
+695,"telefon:   fax:  uwagi: 8 IOM - kod 4000, 2 IOM - kod 4500, 2 IOM - kod 4610, 2 IOM - kod 4640, 2 IOM - kod 4580, 2 IOM - kod 4220, 2 IOM - kod 4450, 4 IOM - kod 4222",24,0,191,88,null,null,null,null,t,null,null,null,null
+1065,telefon:   fax:  uwagi: Oddział Anestezjologii i Intensywnej Terapii - 6 łóżek,6,0,100,88,null,null,null,null,t,null,null,null,null
+523,telefon:   fax:  uwagi: w tym 5 IOM,31,0,1,89,null,null,null,null,t,null,null,null,null
+524,"telefon: 324341236 wew. lek. 623, piel. 625  fax:  uwagi: ",5,0,100,89,null,null,null,null,t,null,null,null,null
+525,telefon:   fax:  uwagi: w tym 2 IOM,20,0,40,89,null,null,null,null,t,null,null,null,null
+526,telefon:   fax:  uwagi: w tym 2 IOM,30,0,42,89,null,null,null,null,t,null,null,null,null
+527,telefon:   fax:  uwagi: Oddział Wcześniaków i Noworodków\r\n11 łóżek dla noworodków + 4 inkubatory,11,0,75,89,null,null,null,null,t,null,null,null,null
+528,telefon:   fax:  uwagi: w tym 2 IOM,33,0,45,89,null,null,null,null,t,null,null,null,null
+776,"telefon:   fax:  uwagi: 5 łóżek kod 4000, 2 łóżka kod 4401, 2 łóżka kod 4450, 2 łóżka kod 4500",11,0,191,89,null,null,null,null,t,null,null,null,null
+529,"telefon: 34 3506355  fax: 34 3565870 uwagi: ul Grunwaldzka 9, Lubliniec",35,0,1,91,null,null,null,null,t,null,null,null,null
+530,"telefon: 34 3506350  fax: 34 3565870 uwagi: ul Grunwaldzka 9, Lubliniec",22,0,40,91,null,null,null,null,t,null,null,null,null
+531,"telefon: 34 3514943  fax: 34 3565870 uwagi: ul Grunwaldzka 9, Lubliniec",12,0,75,91,null,null,null,null,t,null,null,null,null
+532,"telefon: 343514938, 343514937, 343514939  fax: 343565870 uwagi: ul Grunwaldzka 9, Lubliniec",4,0,100,91,null,null,null,null,t,null,null,null,null
+533,"telefon: 34 3514940  fax: 34 3565870 uwagi: ul Grunwaldzka 9, Lubliniec",22,0,42,91,null,null,null,null,t,null,null,null,null
+534,"telefon: 34 3514930  fax: 34 3565870 uwagi: ul Grunwaldzka 9, Lubliniec",30,0,45,91,null,null,null,null,t,null,null,null,null
+648,"telefon: 32 2071788; Izba przyjęć dziecięca: 32 2071950, 32 2071919; Izba przyjęć chirurgiczna: 32 2071900, 32 2071901, 32 2071905  fax: 32 2071785 uwagi: ",6,0,192,92,null,null,null,null,t,null,null,null,null
+536,telefon: 32 2071750  fax: 322071546 uwagi: Oddział Chirurgii i Urologii\r\nw tym 4 łóżka IOM,12,0,46,92,null,null,null,null,t,null,null,null,null
+537,telefon: 32 2071717  fax: 322071546 uwagi: w tym 2 łóżka IOM,12,0,56,92,null,null,null,null,t,null,null,null,null
+538,telefon: 32 2071808  fax: 322071546 uwagi: ,12,0,108,92,null,null,null,null,t,null,null,null,null
+539,"telefon: 32 2071654  fax: 322071546 uwagi: Oddział Pediatrii, Endokrynologii i Diabetologii Dziecięcej z Pododdziałem Diabetologii Dziecięcej\r\nw tym 2 łóżka IOM",50,0,143,92,null,null,null,null,t,null,null,null,null
+541,telefon: 32 2071700  fax: 322071546 uwagi: ,12,0,16,92,null,null,null,null,t,null,null,null,null
+542,telefon: 322071882  fax: 322071546 uwagi: w tym 13 IT,13,0,101,92,null,null,null,null,t,null,null,null,null
+543,telefon: 32 2071893  fax: 322071546 uwagi: w tym 4 łóżka IOM,13,0,54,92,null,null,null,null,t,null,null,null,null
+544,telefon: 322071855  fax: 322071546 uwagi: ,32,0,13,92,null,null,null,null,t,null,null,null,null
+545,telefon: 32 2071973  fax: 322071546 uwagi: w tym 2 łóżka IOM,17,0,62,92,null,null,null,null,t,null,null,null,null
+546,telefon: 32 2071752  fax: 322071546 uwagi: Oddział Intensywnej Terapii i Patologii Noworodka\r\nw tym 18 IT,52,0,75,92,null,null,null,null,t,null,null,null,null
+547,telefon: 32 2071700  fax: 322071546 uwagi: ,12,0,40,92,null,null,null,null,t,null,null,null,null
+634,"telefon: Izba przyjęć dziecięca: 32 2071950, 32 2071919; Izba przyjęć chirurgiczna: 32 2071900, 32 2071965  fax: 32 2071785 uwagi: Stanowiska IT",4,0,72,92,null,null,null,null,t,null,null,null,null
+649,"telefon:   fax:  uwagi: 4501 (Oddział chirurgii i urlologii) - 4\r\n4571 (Oddział neurochirurgii) - 2\r\n4031 (Oddział pediatrii, endokrynol. i diabetolog.) - 2\r\n4561 (Oddział kardiochirurgii dziecięcej) - 4\r\n4611 (Oddział laryngologii) - 2\r\n4221 (Oddział pediatrii i neurlogii wieku rozwojowego) - 2\r\n4249 (Oddział onkologii, hematol. i chemioterapii) - 2\r\n",18,0,191,92,null,null,null,null,t,null,null,null,null
+664,telefon: 32 2071600  fax: 322071546 uwagi: Oddział Pediatrii i Neurologii Wieku Rozwojowego\r\nw tym 2 łóżka IOM,43,0,23,92,null,null,null,null,t,null,null,null,null
+1003,"telefon: 322071763  fax: 322071546 uwagi: Oddział Onkologii, Hematologii i Chemioterapii - 32, \r\nw tym 2 IOM",32,0,159,92,null,null,null,null,t,null,null,null,null
+548,"telefon: centrala - 327207700, Izba Przyj. 327207774  fax: 322663630 uwagi: brak łóżek IOM",27,0,40,93,null,null,null,null,t,null,null,null,null
+549,"telefon: centr. 327207700, IP 327207774  fax: 322663630 uwagi: brak łóżek IOM, 4 stanowiska patologii noworodka, 2 stanowiska Panda, 2 inkubatory zamknięte, 1 inkubator otwarty",16,0,139,93,null,null,null,null,t,null,null,null,null
+550,"telefon: centr. 327207700, IP 327207774  fax: 322663630 uwagi: brak łóżek IOM, 6 noworodkowych, 1 inkubator",25,0,46,93,null,null,null,null,t,null,null,null,null
+551,"telefon: centr. 327207700, IP 327207774  fax: 322663630 uwagi: Oddział Kliniczny Psychiatrii i Psychoterapii Wieku Rozwojowego",62,0,182,93,null,null,null,null,t,null,null,null,null
+552,"telefon: 327207777, centrala: 327207700  fax: 322663630 uwagi: ",10,0,101,93,null,null,null,null,t,null,null,null,null
+691,"telefon:   fax:  uwagi: 8 stanowisk, w tym 2 duże łóżka",8,0,191,93,null,null,null,null,t,null,null,null,null
+4,telefon: 322854430  fax: 322854430 uwagi: w tym 2 łóżka IOM,36,0,133,11,null,null,null,null,t,null,null,null,null
+554,telefon: I-32 3934315 ; II-32 3934325 ; III-32 3934335 ; IV-32 3934345 ; VI-32 3934365 ; VIII-32 3934385 ; 32 3934305 ;   fax: 32 3934141 uwagi: Oddział I Urazowo-Ortopedyczny Męski - 24 ;\r\n\r\nOddział II Urazowo-Ortopedyczny z Pododdziałem Artroskopii i Chirurgii Kolana - 32 ;\r\n\r\nOddział III Urazowo-Ortopedyczny Kobiecy - 30 ;\r\n\r\nOddział IV Urazów i Schorzeń Kręgosłupa i Paraplegii Urazowej - 30 ;\r\nOddział VI Chirurgii Rekonstrukcyjnej Ręki - 20 ;\r\nOddział VIII Septyczny - 21 ;\r\nOddział IX Leczenia Nowotworów i Patologii Kostno-Stawowej - 27.\r\n,182,0,106,94,null,null,null,null,t,null,null,null,null
+555,telefon: 32 3934375  fax: 32 3934141 uwagi: Oddział VII Urazowo-Ortopedyczny Dzieci i Młodzieży,15,0,108,94,null,null,null,null,t,null,null,null,null
+556,"telefon: lek. 323934266, piel. 323934254  fax: 323934141 uwagi: Oddział posiada dodatkowo 8 stanowisk IT Pooperacyjnej",7,0,100,94,null,null,null,null,t,null,null,null,null
+778,telefon:   fax:  uwagi: ,15,0,191,94,null,null,null,null,t,null,null,null,null
+557,"telefon: 32 3490071  fax: 32 2415529 uwagi: Niemowlęcy i Patologii Noworodka. W tym 2 łóżka IOM.\r\n1 łóżko z intensywnym nadzorem, 5 łóżek dla noworodków, 2 inkubatory.",34,0,139,95,null,null,null,null,t,null,null,null,null
+558,telefon: 32 3490042  fax: 32 2415529 uwagi: W tym 2 łóżka IOM.,24,0,159,95,null,null,null,null,t,null,null,null,null
+559,telefon: 32 3490081  fax: 32 2415529 uwagi: Pediatryczny dla Dzieci Starszych. W tym 2 łóżka IOM.,32,0,40,95,null,null,null,null,t,null,null,null,null
+560,telefon: 32 3490020  fax: 32 2415529 uwagi: W tym 2 łóżka IOM.,14,0,23,95,null,null,null,null,t,null,null,null,null
+561,telefon: 32 3490034  fax: 32 2415529 uwagi: 2 łóżka dla noworodków.,16,0,16,95,null,null,null,null,t,null,null,null,null
+562,telefon: 32 3490051  fax: 32 2415529 uwagi: W tym 2 łóżka IOM. 2 łóżka dla noworodków.,31,0,62,95,null,null,null,null,t,null,null,null,null
+563,"telefon: 32 3490011  fax: 32 2415529 uwagi: Z ośrodkiem chirurgii małoinwazyjnej dla dzieci. 4 łóżka dla noworodków, 1 inkubator",38,0,46,95,null,null,null,null,t,null,null,null,null
+564,"telefon: 323490070, 323490005, 323490071  fax: 322415529 uwagi: ",8,0,101,95,null,null,null,null,t,null,null,null,null
+565,telefon: 32 3490030  fax: 32 2415529 uwagi: 2 łóżka dla noworodków.,16,0,60,95,null,null,null,null,t,null,null,null,null
+566,telefon: 32 3471216  fax: 32 2415529 uwagi: Ortopedii i Traumatologii Narządu Ruchu,22,0,108,95,null,null,null,null,t,null,null,null,null
+628,"telefon: 32 3471227, 32 3471224, 32 3471223  fax: 32 2415529 uwagi: Stanowiska IT",2,0,72,95,null,null,null,null,t,null,null,null,null
+754,telefon:   fax:  uwagi: 4249- 2\r\n4221- 2\r\n4403- 2\r\n4401- 2\r\n4611- 2,10,0,191,95,null,null,null,null,t,null,null,null,null
+756,"telefon: 32 3471227, 32 3471224, 32 3471223  fax: 32 2415529 uwagi: ",4,0,192,95,null,null,null,null,t,null,null,null,null
+567,"telefon: Oddz. II:323440851  fax: Wszystkie oddziały: 327795912 uwagi: ul. Główna 11  41-711 Ruda Śląska\r\nOddział II Chorób Wewnętrznych i Diabetologii - 52, w tym 2 IOM\r\n",52,0,1,96,null,null,null,null,t,null,null,null,null
+568,"telefon: 323440767  fax: 327795912 uwagi: Oddział Kardiologiczny z Pododdziałem Intensywnego Nadzoru Kardiologicznego, w tym 7 łóżek INK IOM.",28,0,10,96,null,null,null,null,t,null,null,null,null
+569,telefon: 323440758  fax: 327795912 uwagi: ,30,0,106,96,null,null,null,null,t,null,null,null,null
+570,telefon: 323440735  fax: 327795912 uwagi: Oddział Chirurgii Ogólnej i Naczyniowej,51,0,45,96,null,null,null,null,t,null,null,null,null
+571,telefon: 327795936  fax: 327795912 uwagi: ,15,0,59,96,null,null,null,null,t,null,null,null,null
+572,telefon: 323440739  fax: 327795912 uwagi: w tym 2 IOM,72,0,42,96,null,null,null,null,t,null,null,null,null
+573,"telefon: 323440749  fax: 327795912 uwagi: w tym 20 łóżek noworodków, 9 IOM, 15 inkubatorów",44,0,75,96,null,null,null,null,t,null,null,null,null
+574,telefon: 323440754  fax: 327795912 uwagi: ,10,0,61,96,null,null,null,null,t,null,null,null,null
+575,telefon: 327795924  fax: 327795912 uwagi: w tym 1 łóżko IOM,16,0,22,96,null,null,null,null,t,null,null,null,null
+576,telefon: 327795924  fax: 327795912 uwagi: w tym 4 łóżka IOM,16,0,24,96,null,null,null,null,t,null,null,null,null
+577,telefon: 323440835  fax: 327795912 uwagi: Oddział Chorób Płuc z Pododdziałem Chemioterapii. \r\nUl. Główna 11,30,0,133,96,null,null,null,null,t,null,null,null,null
+578,"telefon: 323440825  fax: 327795912 uwagi: Ul. Główna 11. Ruda Śl., w tym 1 łóżko IOM.",20,0,40,96,null,null,null,null,t,null,null,null,null
+579,"telefon: 323440850  fax: 327795912 uwagi: Ul. Główna 11, Ruda Śl.",30,0,66,96,null,null,null,null,t,null,null,null,null
+580,"telefon: 323440868  fax: 327795912 uwagi: Ul. Główna 11, Ruda Śl.",15,0,105,96,null,null,null,null,t,null,null,null,null
+736,"telefon:   fax:  uwagi: 3 łóżka kod 4000 (po 1 na każdym oddziale), 2 łóżka kod 4450, 1 łóżko kod 4220, 4 łóżka kod 4222, 1 łóżko kod 4401.",11,0,191,96,null,null,null,null,t,null,null,null,null
+1007,telefon: 32 7275803  fax: 32 7275807 uwagi: ,8,0,100,96,null,null,null,null,t,null,null,null,null
+581,telefon: 32 621 20 96  fax:  uwagi: W tym 4 łóżka IOM,46,0,1,97,null,null,null,null,t,null,null,null,null
+582,telefon:   fax:  uwagi: W tym 4 łóżka IOM.,27,0,45,97,null,null,null,null,t,null,null,null,null
+583,telefon:   fax:  uwagi: ,30,0,106,97,null,null,null,null,t,null,null,null,null
+584,telefon:   fax:  uwagi: ,8,0,61,97,null,null,null,null,t,null,null,null,null
+585,telefon:   fax:  uwagi: ,8,0,59,97,null,null,null,null,t,null,null,null,null
+586,telefon:   fax:  uwagi: W tym 2 łóżka IOM,24,0,22,97,null,null,null,null,t,null,null,null,null
+587,"telefon: 326212176 (lek.), 326212175 (piel.), 326212000 (centrala)  fax:  uwagi: Dializy - TAK",8,0,100,97,null,null,null,null,t,null,null,null,null
+590,telefon:   fax:  uwagi: Oddział pediatryczny i alergologiczny,20,0,40,97,null,null,null,null,t,null,null,null,null
+591,telefon:   fax:  uwagi: W tym 4 łóżka IOM.,20,0,24,97,null,null,null,null,t,null,null,null,null
+592,"telefon:   fax:  uwagi: ul. Krasińskiego 43, Dąbrowa Górnicza",60,0,66,97,null,null,null,null,t,null,null,null,null
+632,"telefon: 32 2622435, 32 6212112  fax:  uwagi: Stanowiska IT",3,0,72,97,null,null,null,null,t,null,null,null,null
+749,telefon:   fax:  uwagi: 4000- 4\r\n4500- 4\r\n4220- 2\r\n4222- 4,14,0,191,97,null,null,null,null,t,null,null,null,null
+751,"telefon: 32 2622435, 32 6212112  fax:  uwagi: ",5,0,192,97,null,null,null,null,t,null,null,null,null
+818,telefon:   fax:  uwagi: wew. I (4000)- 2 łóżka IOM; wew. II (4000) - 2 łóżka IOM; ginek. (4450) - 2 łóżka IOM; dziecięcy (4401) - 2 łóżka IOM; chir. (4500) - 2 łóżka IOM; chir. uraz. (4580) - 2 łóżka IOM,12,0,191,98,null,null,null,null,t,null,null,null,null
+823,telefon:   fax:  uwagi: 2 łóżka kod 4272,2,0,191,11,null,null,null,null,t,null,null,null,null
+594,telefon: 33 440 18 38  fax: 33 8612995 uwagi: Oddział Chorób Wewnętrznych z pododdziałem\r\nnefrologii,32,0,1,98,null,null,null,null,t,null,null,null,null
+595,telefon: 33 440 18 51  fax: 33 8612995 uwagi: W tym 2 łóżka IOM.,22,0,42,98,null,null,null,null,t,null,null,null,null
+596,telefon: 33 440 18 24  fax: 33 8612995 uwagi: W tym 2 łóżko IOM,21,0,40,98,null,null,null,null,t,null,null,null,null
+597,telefon: 33 440 18 53  fax: 33 8612995 uwagi: W tym 2 łóżka IOM.,32,0,45,98,null,null,null,null,t,null,null,null,null
+598,telefon: 33 440  18 63  fax: 33 8612995 uwagi: W tym 2 łóżka IOM.,38,0,106,98,null,null,null,null,t,null,null,null,null
+599,telefon: 33 440 18 22  fax: 33 8612995 uwagi: w tym 6 inkubatorów,21,0,75,98,null,null,null,null,t,null,null,null,null
+600,telefon: 33 440 18 29  fax: 338612995 uwagi: ,6,0,100,98,null,null,null,null,t,null,null,null,null
+1059,telefon: (34) 315-82-02  fax:  uwagi: ,5,0,100,99,null,null,null,null,t,null,null,null,null
+601,"telefon: Oddz. I: 343158252; Oddz. II: 343158228  fax:  uwagi: Oddział Chorób Wewnętrznych - 53, w tym 2 łóżka IOM.\r\nOddział Chorób Wewnętrznych II - zakończenie działalności z dniem 30.06.2015 r.",53,0,1,99,null,null,null,null,t,null,null,null,null
+602,telefon: 343158249  fax:  uwagi: W tym 1 łóżko IOM.,28,0,40,99,null,null,null,null,t,null,null,null,null
+603,telefon: 343158262  fax:  uwagi: ,35,0,42,99,null,null,null,null,t,null,null,null,null
+604,telefon: 343158272  fax:  uwagi: W tym 1 łóżko IOM.,26,0,45,99,null,null,null,null,t,null,null,null,null
+605,"telefon: 343158268 (ordyn.), 343158216 (piel.)  fax:  uwagi: 16 łóżek dla noworodków + 4 inkubatory",20,0,75,99,null,null,null,null,t,null,null,null,null
+606,telefon: 343158250  fax:  uwagi: W tym 1 łóżko IOM.,21,0,106,99,null,null,null,null,t,null,null,null,null
+854,"telefon:   fax:  uwagi: 2 łóżka kod 4000, 1 łóżko kod 4401, 1 łóżko kod 4450, 1 łóżko kod 4500, 1 łóżko kod 4580.",6,0,191,99,null,null,null,null,t,null,null,null,null
+608,"telefon:   fax:  uwagi: SP ZOZ Zespół Szpitali Miejskich ul. Strzelców Bytomskich 11, 41-500 Chorzów",20,0,10,100,null,null,null,null,t,null,null,null,null
+761,telefon:   fax:  uwagi: ,1,0,191,100,null,null,null,null,t,null,null,null,null
+924,"telefon:   fax:  uwagi: W tym: 1 łóżko IOM, 4 łóżka INK.",5,0,14,100,null,null,null,null,t,null,null,null,null
+609,"telefon:   fax:  uwagi: Szpital Miejski im. dr. W. Biegańskiego ul. Mickiewicza 12, 42-200 Częstochowa",20,0,10,101,null,null,null,null,t,null,null,null,null
+660,telefon:   fax:  uwagi: ,1,0,191,101,null,null,null,null,t,null,null,null,null
+922,"telefon:   fax:  uwagi: W tym: 1 łóżko IOM, 10 łóżek INK",11,0,14,101,null,null,null,null,t,null,null,null,null
+610,"telefon:   fax:  uwagi: SP Szpital Miejski ul. Szpitalna 1, 41-219 Sosnowiec",12,0,10,102,null,null,null,null,t,null,null,null,null
+693,telefon:   fax:  uwagi: ,1,0,191,102,null,null,null,null,t,null,null,null,null
+923,"telefon:   fax:  uwagi: W tym: 1 łóżko IOM, 4 łóżka INM.",5,0,14,102,null,null,null,null,t,null,null,null,null
+611,telefon:   fax:  uwagi: Oddział Psychiatryczny I - 40\r\nOddział Psychiatryczny II - 40\r\nOddział Psychiatryczny III - 50\r\nOddział Psychiatryczny IV zaburzeń afektywnych i nerwicowych - 50,180,0,66,103,null,null,null,null,t,null,null,null,null
+612,"telefon:   fax:  uwagi: ul. Korczaka 27, 40-340 Katowice\r\nOddział Terapii Uzależnień od Alkoholu - 20\r\n\r\nul. Katowicka 21, 43-349 Katowice\r\nOddział Terapii Uzależnień od Alkoholu - 38",58,0,95,103,null,null,null,null,t,null,null,null,null
+684,telefon:   fax:  uwagi: ,1,0,191,103,null,null,null,null,t,null,null,null,null
+613,telefon: 32 2776162  fax: 32 2717311 uwagi: I Oddział Chorób Wewnętrznych - 60\r\nw tym 4 IOM\r\n,52,0,1,104,null,null,null,null,t,null,null,null,null
+614,telefon: 32 2776157  fax: 32 2717311 uwagi: ,36,0,45,104,null,null,null,null,t,null,null,null,null
+615,telefon: 32 2776152  fax: 32 2717311 uwagi: ,50,0,106,104,null,null,null,null,t,null,null,null,null
+616,telefon: 32 2776171  fax: 32 2717311 uwagi: W tym 5 łóżka IOM.\r\nZ Pododdziałem Udarowym - przygotowany do leczenia udarów w ostrej fazie (lecz. trombolityczne).,28,0,22,104,null,null,null,null,t,null,null,null,null
+618,"telefon: 322776148, 322776150 wew.149, 150, 151, 311  fax: 322717311 uwagi: Oddział Anestezjologii i Intensywnej Terapii Medycznej - 10 łóżek, w tym 10 IT",10,0,100,104,null,null,null,null,t,null,null,null,null
+619,"telefon: 32 2776309  fax: 32 2717311 uwagi: Odcinek Położniczo-Ginekologiczny - 31, Odcinek Patologii Ciąży i Endokrynologii Ginekologicznej - 25, Pododdział Ginekologii Onkologicznej i Endoskopowego Leczenia Endometriozy - 18.\r\npl. Traugutta 6, Zabrze",74,0,42,104,null,null,null,null,t,null,null,null,null
+620,"telefon: 32 2776330  fax: 32 2717311 uwagi: Łóżka dla noworodków - 31, łóżka intensywnej terapii noworodka - 3, łóżka opieki ciągłej dla noworodków po sztucznej wentylacji - 3, łózka opieki pośredniej dla noworodków niewymagających wsparcia oddechowego - 3. \r\npl. Traugutta 6, Zabrze",40,0,75,104,null,null,null,null,t,null,null,null,null
+709,"telefon:   fax:  uwagi: 4 łóżka kod 4000, 2 łóżka kod 4220, 2 łóżka kod 4450, 6 łóżek kod 4421",11,0,191,104,null,null,null,null,t,null,null,null,null
+1066,telefon:   fax:  uwagi: ,0,0,192,104,null,null,null,null,t,null,null,null,null
+621,telefon: 338284007  fax: 338151630 uwagi: w tym 2 łóżka IOM,24,0,139,105,null,null,null,null,t,null,null,null,null
+622,telefon: 338284014  fax: 338151630 uwagi: Oddział Pediatryczny z pododdziałami: gastroenterologicznym i ogólno pediatrycznym\r\nw tym 2 łóżka IOM,40,0,40,105,null,null,null,null,t,null,null,null,null
+623,telefon: 338284032  fax: 338151630 uwagi: w tym 2 łóżka IOM,9,0,62,105,null,null,null,null,t,null,null,null,null
+624,telefon: 338284022  fax: 338151630 uwagi: w tym 2 łóżka IOM,22,0,46,105,null,null,null,null,t,null,null,null,null
+625,"telefon: 338284036, 338284034, 338124809  fax: 338151630 uwagi: ",5,0,101,105,null,null,null,null,t,null,null,null,null
+732,telefon:   fax:  uwagi: ,5,0,191,105,null,null,null,null,t,null,null,null,null
+1034,telefon: 338284015  fax: 338151630 uwagi: ,30,0,182,105,null,null,null,null,t,null,null,null,null
+641,telefon: 32 4592431/32/33 (lek.) 32 4592417/418 (piel.) 32 4592517 (sek.)  fax: 32 4578140 uwagi: Oddział Pediatryczny - 30,30,0,40,110,null,null,null,null,t,null,null,null,null
+791,telefon:   fax:  uwagi: Oddział chorób wewnętrznych (4000) - 2 łóżka IOM\r\nOddział pediatryczny (4401) - 4 łóżka IOM\r\nOddział ginekologiczno - położniczy - 2 łóżka IOM\r\n,10,0,191,110,null,null,null,null,t,null,null,null,null
+807,"telefon: 32 2651644 wew. 253  fax: 32 2651430 uwagi: Oddział Chorób wewnętrznych I - 58 łóżek, w tym: IOM - 4.\r\nOddział Chorób Wewnętrznych II z Pododdziałem Szybkiej Diagnostyki Kardilogicznej - 51 łóżek, w tym: IOM - 4",109,0,1,112,null,null,null,null,t,null,null,null,null
+805,telefon:   fax:  uwagi: 4000 (Oddział chor. wew II) - 4 IOM\r\n4580 (Oddział uraz - ortop) - 2 IOM\r\n4610 (Oddział otolaryngol.) - 2 IOM\r\n4220 (Oddział neurologiczny) - 1 IOM\r\n4222 (Oddział udarowy) - 4 IOM\r\n4401 (Oddział dziecięcy) - 2 IOM,15,0,191,112,null,null,null,null,t,null,null,null,null
+809,"telefon: 32 2651644 wew.239  fax: 32 2651430 uwagi: 19 łóżek, w tym 2 IOM.",19,0,106,112,null,null,null,null,t,null,null,null,null
+810,telefon: 32 2651644 wew.239  fax: 32 2651430 uwagi: w tym 2 IOM,14,0,61,112,null,null,null,null,t,null,null,null,null
+811,"telefon: 32 2651644 wew.255  fax: 32 2651430 uwagi: 14 łóżek, w tym 1 IOM.",14,0,22,112,null,null,null,null,t,null,null,null,null
+812,"telefon: 32 2651644 wew.255  fax: 32 2651430 uwagi: 18 łóżek, w tym 4 IOM.",18,0,24,112,null,null,null,null,t,null,null,null,null
+813,telefon: 32 2651644 wew. 285  fax: 32 2651430 uwagi: Oddział dla nerwowo i psychicznie chorych.,60,0,66,112,null,null,null,null,t,null,null,null,null
+814,telefon: 32 2651644 wew. 208  fax: 32 2651430 uwagi: 20 miejsc dla pacjentów dziennych,20,0,105,112,null,null,null,null,t,null,null,null,null
+815,"telefon: 32 2651644 wew.228  fax: 32 2651430 uwagi: Oddział dziecięcy - 30 łóżek, w tym 2 IOM.",30,0,40,112,null,null,null,null,t,null,null,null,null
+1004,telefon: 322651644  fax: 322651430 uwagi: w tym 2 łóżka IOM,30,0,45,112,null,null,null,null,t,null,null,null,null
+1021,telefon: 32 265-17-47 wew 323 - dyżurka lekarska   fax:  uwagi: ,5,0,100,112,null,null,null,null,t,null,null,null,null
+847,"telefon: 343175050  fax: brak uwagi: Oddział chorob wewnętrznych z pododdziałem geriatrycznym - 28 łóżek, w tym 2 łóżka IOM, 2 IT",30,0,1,114,null,null,null,null,t,null,null,null,null
+848,telefon:   fax:  uwagi: 2 łóżka kod 4000,2,0,191,114,null,null,null,null,t,null,null,null,null
+880,"telefon: Oddz. I: 32 3598729, Oddz.II: 32 3598694, Oddz.III: 32 3598690, Oddz. Elektrokard.: 32 3598893  fax: Oddz.I: 32 2523658, Oddz.II: 32 3598694, Oddz.III: 32 3598690, Oddz. Elekrokard.: 32 3598893 uwagi: Oddz. I - 46 łóżek,\r\nOddz. II - 48 łóżek\r\nOddz. III - 46 łóżek\r\nOddz. Elektrokardiologii. - 39 łóżek.",179,0,10,118,null,null,null,null,t,null,null,null,null
+881,telefon: 32 3598644  fax: 32 2526093 uwagi: w tym 16 łóżka IOM,74,0,53,118,null,null,null,null,t,null,null,null,null
+882,"telefon: 32 3598648, 32 3598659  fax: 32 3598594 uwagi: w tym IT: 20 łóżka\r\nDializy - TAK.",20,0,100,118,null,null,null,null,t,null,null,null,null
+883,telefon: 32 4796065  fax:  uwagi: ,12,0,14,118,null,null,null,null,t,null,null,null,null
+884,"telefon:   fax:  uwagi: 14 łóżek kod 4100 (6 Oddz. I, 2 Oddz. II i 6 Oddz. III), 32 łóżka kod 4560.",46,0,191,118,null,null,null,null,t,null,null,null,null
+1031,telefon: 32 3598654  fax: 324796011 uwagi: ,3,0,192,118,null,null,null,null,t,null,null,null,null
+894,"telefon: 343252611 (wew. 267 - pok. lek., wew. 264 - dyż pielęgn.)  fax: 343225555 (Izba Przyjęć) uwagi: Oddział Otolaryngologii i Onkologii Laryngologicznej,\r\nw tym 2 IOM",21,0,61,119,null,null,null,null,t,null,null,null,null
+889,telefon: 343252611 (wew. 241 - pok. lek.; wew. 240 - dyż. pielęgn.)  fax: 343225555 (Izba Przyjęć) uwagi: w tym 2 IOM,21,0,22,119,null,null,null,null,t,null,null,null,null
+887,telefon: 343252611 (wew.160 lub 346 - dyż. piel)  fax: 343225555 (Izba Przyjęć) uwagi: w tym 6 IOM,19,0,24,119,null,null,null,null,t,null,null,null,null
+892,telefon: 343252611 (wew. 272 - pok.lek. i dyz. piel.)  fax: 343225555 (Izba Przyjęć) uwagi: ,24,0,111,119,null,null,null,null,t,null,null,null,null
+900,telefon: 343252611 (wew. 235 - pok. lek.; wew. 136 - dyż. pielęgn.)  fax: 343252611 (wew. 171 - pok. sekret. med. pn-pt 7:00-14:35); 343225555 (Izba Przyjęć) uwagi: Oddział psychiatryczny dla chorych na gruźlicę i inne choroby zakaźne,15,0,190,119,null,null,null,null,t,null,null,null,null
+899,telefon: 343252611 (wew. 235 - pok. lek.; wew. 148 - dyż pielęgn.)  fax: 343252611 (wew. 171 - pok. sekret. med. pn-pt 7:00-14:35); 343225555 (Izba Przyjęć) uwagi: ,25,0,91,119,null,null,null,null,t,null,null,null,null
+897,telefon: 343252611 (wew. 235 - pok.lek.; wew. 168 - dyż.pielęgn.)  fax: 343225555 (Izba Przyjęć) uwagi: ,25,0,66,119,null,null,null,null,t,null,null,null,null
+896,"telefon: 343252611 (wew. 233 - pok. lek.; wew. 252, 254 - dyż pielęgn.)  fax: 343252611 (wew. 233 - pok. lek.); 343225555 (Izba Przyjęć) uwagi: w tym 2 łóżka IOM",62,0,1,119,null,null,null,null,t,null,null,null,null
+898,telefon: 343252611 (wew. 235 - pok. lek.; wew. 147 - dyż. pielęgn.)  fax: 343225555 (Izba Przyjęć) uwagi: 25 miejsc dziennego pobytu.\r\nOddział czynny od pon. do pt. w godz. 7:00 - 14:35,25,0,105,119,null,null,null,null,t,null,null,null,null
+891,telefon: 343252611 (wew. 261 - pok. lek.; wew. 260 - dyż. pielęgn.)  fax: 343225555 (Izba Przyjęć) uwagi: w tym 2 łóżka IOM + 1 inkubator,31,0,40,119,null,null,null,null,t,null,null,null,null
+886,telefon: 343252611 (wew. 298 - pok. lek.; wew. 214 - dyż. pielęgn.)  fax: 343225555 (Izba Przyjęć) uwagi: w tym 10 IOM (spełniają kryteria stanowisk IT),10,0,100,119,null,null,null,null,t,null,null,null,null
+993,telefon: 34 3252611 wew. 224 (p. lekarzy); wew. 137 (dyż. piel.)  fax: 34 3225555 (Izba Przyjęć) uwagi: ,30,0,133,119,null,null,null,null,t,null,null,null,null
+994,telefon: 34 3252611 wew. 311  fax: 34 3225555 (Izba Przyjęć) uwagi: ,21,0,33,119,null,null,null,null,t,null,null,null,null
+995,telefon: 34 3252611 wew. 297 (dyż. piel.)  fax: 34 3225555 (Izba Przyjęć) uwagi: ,28,0,88,119,null,null,null,null,t,null,null,null,null
+1000,telefon:   fax:  uwagi: w tym 2 IOM w oddziale dziecięcym,22,0,191,119,null,null,null,null,t,null,null,null,null
+907,telefon: 34 327 91 75 wew. 281  fax:  uwagi: ,34,0,1,123,null,null,null,null,t,null,null,null,null
+908,telefon: 34 3279175 wew. 214  fax:  uwagi: z pododdziałem neonatologii.\r\n,38,0,42,123,null,null,null,null,t,null,null,null,null
+909,telefon: 34 3279175 wew. 292  fax:  uwagi: ,35,0,45,123,null,null,null,null,t,null,null,null,null
+910,telefon: 34 3279175 wew. 289  fax:  uwagi: ,25,0,106,123,null,null,null,null,t,null,null,null,null
+911,telefon: 34 3279175 wew. 214  fax:  uwagi: ,15,0,40,123,null,null,null,null,t,null,null,null,null
+1005,telefon: 343729175 wew. 245 lub 785056702  fax: 343279175 wew. 265 (Izba Przyjęć) uwagi: w tym 8 IT,8,0,100,123,null,null,null,null,t,null,null,null,null
+1,"telefon:   fax:  uwagi: Oddział Chorób Płuc i Chemioterapii Nowotworów - 25, w tym 1 IOM",25,0,133,10,null,null,null,null,t,null,null,null,null
+2,telefon: 32 331 99 11 (dyżurka lekarska); 32 331 99 13 (dyżurka pielęgniarska)  fax:  uwagi: Oddział rehabilitacji oddechowej,25,0,134,10,null,null,null,null,t,null,null,null,null
+3,telefon: 32 331 99 33 (dyżurka pielęgniarska); 32 331 99 32 (dyżurka lekarska)  fax:  uwagi: Leczenie gruźlicy - oddzial zamkniety - 43 łóżka\r\npulmunologia i chemioterapia - 24 łóżka \r\nw tym 1 stanowisko OIOM ,67,0,31,10,null,null,null,null,t,null,null,null,null
+832,telefon:   fax:  uwagi: 1 łóżko OIOM - 4270,1,0,191,10,null,null,null,null,t,null,null,null,null
+5,telefon: 32 6741111  fax: 32 6741471 uwagi: w tym łóżka IOM - 2,36,0,31,12,null,null,null,null,t,null,null,null,null
+816,telefon:   fax:  uwagi: 2 IOM - kod 4270,2,0,191,12,null,null,null,null,t,null,null,null,null
+6,"telefon: Oddz. I: 323319250, Oddz. II: 323319270  fax: Oddz. I i II: 323319353 uwagi: Oddział Chorób Wewnetrznych I  - 44, w tym 2 IOM\r\nOddział Chorób Wewnetrznych II - 48 ",92,0,1,13,null,null,null,null,t,null,null,null,null
+8,telefon: 323319260  fax: 323319386 uwagi: ,39,0,45,13,null,null,null,null,t,null,null,null,null
+9,telefon: 323319330  fax: 323319330 uwagi: ,49,0,42,13,null,null,null,null,t,null,null,null,null
+10,"telefon: 323319245  fax: 323319330 uwagi: 18 łóżek, w tym 6 inkubatorów",18,0,75,13,null,null,null,null,t,null,null,null,null
+830,telefon:   fax:  uwagi: 2 łóżka kod 4000 (Oddz. I) ,2,0,191,13,null,null,null,null,t,null,null,null,null
+869,telefon: 323319290  fax: 323319290 uwagi: ,9,0,110,13,null,null,null,null,t,null,null,null,null
+11,telefon: 327808706  fax: 327803379 uwagi: W tym 2 łóżka IOM.,26,0,40,14,null,null,null,null,t,null,null,null,null
+12,telefon: 327808714  fax: 327803379 uwagi: W tym 1 łóżko IT i 4 łóżka IOM.,32,0,10,14,null,null,null,null,t,null,null,null,null
+747,"telefon:   fax:  uwagi: 2 łóżka kod 4000, 4 łóżka kod 4100, 2 łóżka kod 4401.",9,0,191,14,null,null,null,null,t,null,null,null,null
+873,telefon: 327808721  fax: 327803379 uwagi: Oddział Internistyczny\r\nw tym 2 łóżka IOM,46,0,1,14,null,null,null,null,t,null,null,null,null
+13,telefon: 32 3183351  fax: 32 2222330 uwagi: w tym 2 IOM,36,0,1,15,null,null,null,null,t,null,null,null,null
+14,telefon: 32 3183365  fax: 32 2222330 uwagi: ,15,0,59,15,null,null,null,null,t,null,null,null,null
+15,telefon: 32 3183320  fax: 32 2222330 uwagi: W tym 2 łóżka IOM.,18,0,45,15,null,null,null,null,t,null,null,null,null
+16,telefon: 32 3183290  fax: 32 2222330 uwagi: W tym 2 łóżka IOM.,20,0,106,15,null,null,null,null,t,null,null,null,null
+768,telefon:   fax:  uwagi: 2 łóżka IOM - oddz. 4000\r\n3 łóżka IOM - oddz. 4580\r\n2 łóżka IOM - oddz. 4500,7,0,191,15,null,null,null,null,t,null,null,null,null
+662,telefon:   fax:  uwagi: ,0,0,191,20,null,null,null,null,t,null,null,null,null
+26,telefon:   fax:  uwagi: ,30,0,42,21,null,null,null,null,t,null,null,null,null
+797,telefon:   fax:  uwagi: ,0,0,191,22,null,null,null,null,t,null,null,null,null
+38,telefon: 324291866  fax: 324228272 uwagi: ,20,0,20,24,null,null,null,null,t,null,null,null,null
+228,telefon:   fax:  uwagi: w tym 2 IOM,16,0,22,51,null,null,null,null,t,null,null,null,null
+449,telefon: 32 3704287  fax: 32 3704292 uwagi: ,15,0,16,76,null,null,null,null,t,null,null,null,null
+1030,"telefon: 338520511 wew. 334, 335  fax: 338520289 uwagi: Uruchomienie w dn. 12.11.2018 r.",5,0,14,124,null,null,null,null,t,null,null,null,null
+999,"telefon: 338520511 wew. 334, 335  fax: 33 8520289 uwagi: W tym 1 stanowisko IT.",15,0,10,124,null,null,null,null,t,null,null,null,null
+1073,"telefon: 32 264 53 33 wew. 103 (dyżurka lekarska), 32 264 53 33 wew. 104 (dyżurka pielęgniarska)  fax:  uwagi: ul. Szpitalna 13\r\n41-300 Dąbrowa Górnicza",15,0,205,127,null,null,null,null,t,null,null,null,null
+1072,"telefon: 32 751 91 81 wew. 15 (dyżurka lekarska), 32 751 91 81 wew. 14 (dyżurka pielęgniarska)  fax:  uwagi: ul. Józefa Chełmońskiego 28\r\n43-600 Jaworzno",15,0,204,127,null,null,null,null,t,null,null,null,null
+1070,telefon: 32 621 26 32 (dyżurka lekarska); 32 621 26 30 (dyżurka pielęgniarska)  fax:  uwagi: Siemianowice Śląskie - ul. Szpitalna 6,26,0,15,127,null,null,null,null,t,null,null,null,null
+1002,telefon: 32 621 26 28 (dyżurka lekarska);  32 621 26 22 (dyżurka lekarska);  32 621 26 26 (dyżurka pielęgniarska);  32 621 26 21 (dyżurka pielęgniarska)  fax:  uwagi: Oddział Anestezjologii i Intensywnej Terapii,24,0,100,127,null,null,null,null,t,null,null,null,null
+1022,"telefon: 32 111 42 80 (odc. I); 32 111 42 81 (odc. II); 32 111 42 83  fax: 321114203 uwagi: w tym 1 IT, 1 IOM",34,0,64,128,null,null,null,null,t,null,null,null,null
+1025,telefon:   fax:  uwagi: ,0,0,191,128,null,null,null,null,t,null,null,null,null
+1026,telefon: (32)22659 77-80 wew. 233 (pok. lekarzy); wew. 232 (kierownik oddziału); wew. 234 (pielęgniarka oddziałowa)  fax: 32 226 59 75 uwagi: Oddział Internistyczny,25,0,1,130,null,null,null,null,t,null,null,null,null
+1027,telefon: (32)226-59-77/80 wew 230 (pok. lekarzy); (32)226-59-77/80 wew 231 (pielęgniarka oddziałowa)  fax: 32 226 59 75 uwagi: Oddział ortopedii i rekonstrukcji narządu ruchu z pododdziałem chirurgii kręgosłupa,26,0,106,130,null,null,null,null,t,null,null,null,null
+1028,telefon: 32/226 59 77-80 wew 219 (pok. learzy); 32/226-59-77/80 wew. 221 (pielęgniarka oddziałowa)  fax: 32 226 59 75 uwagi: ,26,0,45,130,null,null,null,null,t,null,null,null,null
+1029,telefon: (32)226-59-77/80 wew. 252  fax:  uwagi: Oddział laryngologiczny,7,0,61,130,null,null,null,null,t,null,null,null,null
+1036,telefon: 32 202 55 21  fax: 32 202 55 21 wew. 333 uwagi: W tym 2 łózka IOM.,21,0,42,131,null,null,null,null,t,null,null,null,null
+1037,telefon:   fax:  uwagi: ,2,0,191,131,null,null,null,null,t,null,null,null,null
+1040,telefon: 32 707 42 35  fax:  uwagi: ,17,0,48,133,null,null,null,null,t,null,null,null,null
+1041,telefon: 32 707 42 21  fax:  uwagi: ,11,0,59,133,null,null,null,null,t,null,null,null,null
+1042,telefon: 32 707 42 38  fax:  uwagi: ,9,0,45,133,null,null,null,null,t,null,null,null,null
+1043,telefon: 32 707 42 38  fax:  uwagi: ,8,0,106,133,null,null,null,null,t,null,null,null,null
+1045,telefon: 32 707 42 25  fax:  uwagi: 6 stanowisk IT,6,0,100,133,null,null,null,null,t,null,null,null,null
+1044,telefon:   fax:  uwagi: 4 IOM - kod 4530\r\n1 OIM - kod 4600,5,0,191,133,null,null,null,null,t,null,null,null,null
+1052,telefon: Komórka udarowa 530 628 873  fax:  uwagi: ,16,0,24,134,null,null,null,null,t,null,null,null,null
+1056,"telefon: tel. kontaktowy do oddziału 32/7832600, 32/7832613  fax:  uwagi: joanna.niedzwiecka@wcm-wodzislaw.pl - Pielęgniarka Zarządzająca",15,0,48,154,null,null,null,null,t,null,null,null,null
+410,telefon: 32 611 53 00 wewn. 316 (pielęgniarki); wewn. 317 (lekarze); wewn. 315 (sekretariat)  fax:  uwagi: w tym 7 łóżek intensywnej terapii; dializy - TAK,7,0,100,73,null,null,null,null,t,null,null,null,1
+411,telefon: 32 611 53 00 wewn. 331 (pielęgniarki); wewn. 332 (lekarze); wewn. 330 (sekretariat)  fax:  uwagi: ,20,0,45,73,null,null,null,null,t,null,null,null,1
+412,telefon: 32 611 53 00 wewn. 351 (pielegniarki); wewn. 352 (lekarze); wewn. 350 (sekretariat)  fax:  uwagi: ,40,0,1,73,null,null,null,null,t,null,null,null,1
+413,telefon: 32 611 53 00 wewn. 311 (pielęgniarki); wewn. 320 (sekretariat)  fax:  uwagi: ,12,0,8,73,null,null,null,null,t,null,null,null,1
+414,telefon: 32 611 53 00 wewn. 321 (pielęgniarki); wewn. 322 (lekarze); wewn. 320 (sekretariat)  fax:  uwagi: ,20,0,42,73,null,null,null,null,t,null,null,null,1
+416,telefon: 32 611 53 00 wewn. 326 (pielęgniarki); wewn. 325 (lekarze)  fax:  uwagi: w tym łóżek dla noworodków - 2; inkubatorów - 2; łóżek IT noworodka - 2; łóżek opieki ciągłej dla noworodków po sztucznej wentylacji - 2; łóżek opieki pośredniej dla noworodków niewymagających wsparcia oddechowego - 2.,10,0,75,73,null,null,null,null,t,null,null,null,1
+417,"telefon: 32 611 53 00 wewn. 371, 373 (pielęgniarki); wewn. 372 (lekarze); wewn. 370 (sekretariat)  fax:  uwagi: w tym 1 łóżko intensywnej opieki medycznej; bez pododdziału udarowego",18,0,22,73,null,null,null,null,t,null,null,null,1
+418,telefon: 32 611 53 00 wewn. 361 (pielęgniarki); wewn. 360 (lekarze); wewn. 360 (sekretariat)  fax:  uwagi: ,16,0,106,73,null,null,null,null,t,null,null,null,1
+839,telefon:   fax:  uwagi: 1 łóżko IOM kod 4220,1,0,191,73,null,null,null,null,t,null,null,null,1
